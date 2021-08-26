@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2021-08-17 22:28:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
@@ -68,6 +74,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_plague_asylum": {
+    "criteria": {
+      "location0": "2021-08-23 23:59:38 -0400"
     },
     "done": true
   },
@@ -272,6 +284,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2021-08-14 22:24:34 -0400"
     },
     "done": true
   },
@@ -750,6 +768,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2021-08-23 00:22:00 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
@@ -795,6 +819,12 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-08-11 23:54:52 -0400"
     },
     "done": true
   },
@@ -921,6 +951,12 @@
   "create:recipes/create.palettes/gabbro_bricks_from_gabbro_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2021-08-15 09:30:13 -0400"
     },
     "done": true
   },
@@ -1152,6 +1188,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2021-08-23 01:02:14 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
@@ -1335,6 +1377,12 @@
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2021-08-17 19:55:44 -0400"
     },
     "done": true
   },
@@ -1809,6 +1857,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-08-17 22:05:58 -0400"
     },
     "done": true
   },
@@ -2808,6 +2862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-08-14 10:41:38 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/content_observer": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
@@ -2853,6 +2913,12 @@
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
+    },
+    "done": true
+  },
+  "create:wrench": {
+    "criteria": {
+      "0": "2021-08-16 18:53:01 -0400"
     },
     "done": true
   },
@@ -3104,10 +3170,24 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2021-08-15 09:33:30 -0400",
       "minecraft:skeleton": "2021-08-10 00:02:10 -0400",
+      "minecraft:hoglin": "2021-08-17 22:34:25 -0400",
+      "minecraft:vindicator": "2021-08-15 09:34:18 -0400",
+      "minecraft:magma_cube": "2021-08-17 22:10:59 -0400",
       "minecraft:spider": "2021-08-10 10:03:51 -0400",
+      "minecraft:piglin_brute": "2021-08-17 22:17:21 -0400",
       "minecraft:creeper": "2021-08-09 23:47:30 -0400",
-      "minecraft:zombie": "2021-08-10 00:01:17 -0400"
+      "minecraft:slime": "2021-08-12 14:08:15 -0400",
+      "minecraft:phantom": "2021-08-12 14:25:58 -0400",
+      "minecraft:witch": "2021-08-22 00:55:00 -0400",
+      "minecraft:cave_spider": "2021-08-12 13:55:09 -0400",
+      "minecraft:piglin": "2021-08-17 22:13:52 -0400",
+      "minecraft:silverfish": "2021-08-22 01:24:11 -0400",
+      "minecraft:enderman": "2021-08-23 21:41:25 -0400",
+      "minecraft:zombie": "2021-08-10 00:01:17 -0400",
+      "minecraft:drowned": "2021-08-12 12:05:40 -0400",
+      "minecraft:zombie_villager": "2021-08-14 22:24:56 -0400"
     },
     "done": false
   },
@@ -3138,6 +3218,12 @@
   "create:recipes/create.palettes/dark_scoria_cobblestone_from_dark_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-08-11 23:55:31 -0400"
     },
     "done": true
   },
@@ -3192,6 +3278,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/lost_pearl": {
+    "criteria": {
+      "lost_pearl": "2021-08-23 22:38:45 -0400"
     },
     "done": true
   },
@@ -3375,6 +3467,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2021-08-12 14:36:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
@@ -3546,6 +3644,12 @@
   "biomesoplenty:recipes/redstone/magic_fence_gate": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:46 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/in_nether": {
+    "criteria": {
+      "end_crystal_fragment": "2021-08-17 22:37:25 -0400"
     },
     "done": true
   },
@@ -5043,6 +5147,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2021-08-12 12:27:18 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_limestone_bricks_stairs_from_fancy_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
@@ -5406,6 +5516,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2021-08-15 09:27:35 -0400"
     },
     "done": true
   },
@@ -5852,6 +5968,12 @@
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
     },
     "done": true
+  },
+  "create:mixer": {
+    "criteria": {
+      "1": "2021-08-17 21:16:01 -0400"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/materials/brass_block_from_compacting": {
     "criteria": {
@@ -6549,6 +6671,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-08-17 22:05:58 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
@@ -6600,6 +6728,12 @@
   "create:recipes/create.base/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:46 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2021-08-23 00:49:00 -0400"
     },
     "done": true
   },
@@ -6801,6 +6935,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2021-08-12 12:27:18 -0400",
+      "minecraft:chicken": "2021-08-14 13:09:29 -0400"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/polished_weathered_limestone_slab": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
@@ -6834,6 +6975,12 @@
   "create:recipes/create.palettes/gabbro_bricks_wall_from_gabbro_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:46 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2021-08-15 09:34:26 -0400"
     },
     "done": true
   },
@@ -7095,6 +7242,12 @@
     },
     "done": true
   },
+  "endrem:main/end_crystal_fragment": {
+    "criteria": {
+      "has_blaze_rod": "2021-08-17 22:37:25 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_weathered_limestone_bricks_slab_from_fancy_weathered_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
@@ -7329,6 +7482,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-08-11 23:48:27 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
@@ -7404,6 +7563,12 @@
   "create:recipes/create.base/crafting/kinetics/filter": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2021-08-17 22:16:03 -0400"
     },
     "done": true
   },
@@ -7524,6 +7689,12 @@
   "create:recipes/decorations/smelting/glass_pane_from_vertical_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_pearl": "2021-08-23 22:38:45 -0400"
     },
     "done": true
   },
@@ -8719,9 +8890,16 @@
     "criteria": {
       "minecraft:cold_ocean": "2021-08-09 23:41:39 -0400",
       "minecraft:forest": "2021-08-09 23:37:00 -0400",
+      "minecraft:mountains": "2021-08-15 09:31:48 -0400",
+      "minecraft:taiga": "2021-08-12 14:42:25 -0400",
       "minecraft:deep_cold_ocean": "2021-08-11 00:20:21 -0400",
       "minecraft:beach": "2021-08-09 23:36:46 -0400",
-      "minecraft:river": "2021-08-09 23:37:24 -0400"
+      "minecraft:dark_forest": "2021-08-23 00:59:04 -0400",
+      "minecraft:river": "2021-08-09 23:37:24 -0400",
+      "minecraft:wooded_mountains": "2021-08-15 09:32:54 -0400",
+      "minecraft:stone_shore": "2021-08-23 00:34:17 -0400",
+      "minecraft:swamp": "2021-08-23 00:55:17 -0400",
+      "minecraft:plains": "2021-08-15 09:26:59 -0400"
     },
     "done": false
   },
@@ -8782,6 +8960,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2021-08-17 22:15:27 -0400"
     },
     "done": true
   },
@@ -9159,14 +9343,18 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-08-22 02:38:22 -0400",
       "sweet_berries": "2021-08-09 23:51:43 -0400",
+      "cooked_beef": "2021-08-14 11:44:04 -0400",
       "baked_potato": "2021-08-11 00:27:13 -0400",
       "apple": "2021-08-10 09:12:35 -0400",
       "potato": "2021-08-10 23:42:17 -0400",
+      "poisonous_potato": "2021-08-11 23:22:35 -0400",
       "pumpkin_pie": "2021-08-10 21:59:03 -0400",
       "bread": "2021-08-09 23:55:09 -0400",
       "rotten_flesh": "2021-08-10 00:06:13 -0400",
       "salmon": "2021-08-09 23:45:32 -0400",
+      "rabbit_stew": "2021-08-14 13:06:57 -0400",
       "cooked_salmon": "2021-08-10 10:54:25 -0400"
     },
     "done": false
@@ -9342,6 +9530,12 @@
   "biomesoplenty:recipes/redstone/dead_trapdoor": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:46 -0400"
+    },
+    "done": true
+  },
+  "create:mechanical_saw": {
+    "criteria": {
+      "0": "2021-08-16 21:16:42 -0400"
     },
     "done": true
   },
@@ -9585,6 +9779,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2021-08-11 22:37:40 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_diorite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
@@ -9594,6 +9794,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2021-08-16 21:14:38 -0400"
     },
     "done": true
   },
@@ -10062,6 +10268,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:46 -0400"
+    },
+    "done": true
+  },
+  "create:pipe_spill": {
+    "criteria": {
+      "0": "2021-08-17 21:16:01 -0400"
     },
     "done": true
   },
