@@ -1098,6 +1098,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2021-08-30 21:54:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
@@ -5771,6 +5777,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2021-08-31 09:00:38 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/black_seat": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
@@ -8893,9 +8905,11 @@
       "minecraft:mountains": "2021-08-15 09:31:48 -0400",
       "minecraft:taiga": "2021-08-12 14:42:25 -0400",
       "minecraft:deep_cold_ocean": "2021-08-11 00:20:21 -0400",
+      "minecraft:deep_lukewarm_ocean": "2021-08-31 08:52:11 -0400",
       "minecraft:beach": "2021-08-09 23:36:46 -0400",
       "minecraft:dark_forest": "2021-08-23 00:59:04 -0400",
       "minecraft:river": "2021-08-09 23:37:24 -0400",
+      "minecraft:lukewarm_ocean": "2021-08-31 08:49:26 -0400",
       "minecraft:wooded_mountains": "2021-08-15 09:32:54 -0400",
       "minecraft:stone_shore": "2021-08-23 00:34:17 -0400",
       "minecraft:swamp": "2021-08-23 00:55:17 -0400",
@@ -9351,6 +9365,7 @@
       "potato": "2021-08-10 23:42:17 -0400",
       "poisonous_potato": "2021-08-11 23:22:35 -0400",
       "pumpkin_pie": "2021-08-10 21:59:03 -0400",
+      "mutton": "2021-08-31 09:02:04 -0400",
       "bread": "2021-08-09 23:55:09 -0400",
       "rotten_flesh": "2021-08-10 00:06:13 -0400",
       "salmon": "2021-08-09 23:45:32 -0400",
