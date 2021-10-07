@@ -1,9 +1,39 @@
-[12Sep2021 00:11:33.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[12Sep2021 00:11:33.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 8.tcp.ngrok.io:16122<--[HERE]
-[12Sep2021 00:11:34.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
-[12Sep2021 11:48:42.616] [User Authenticator #34/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
-[12Sep2021 11:48:45.448] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@46f83e62
-[12Sep2021 11:48:45.498] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:14050] logged in with entity id 183735 at (-129.24309275905142, 63.0, -826.0225962464684)
-[12Sep2021 11:48:45.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
-[12Sep2021 11:48:57.853] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
-[12Sep2021 11:48:57.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
+[06Oct2021 18:53:17.607] [User Authenticator #67/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
+[06Oct2021 18:53:20.676] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4248de81
+[06Oct2021 18:53:20.723] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KZcheese[/0:0:0:0:0:0:0:1:5308] logged in with entity id 479478 at (-176.08641808266384, 75.0, -826.8185592656156)
+[06Oct2021 18:53:20.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese joined the game
+[06Oct2021 18:56:29.181] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KZcheese lost connection: Disconnected
+[06Oct2021 18:56:29.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese left the game
+[06Oct2021 19:20:51.756] [User Authenticator #68/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
+[06Oct2021 19:20:54.710] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@20eb2e31
+[06Oct2021 19:20:54.741] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:5388] logged in with entity id 480266 at (-78.06711331455615, 64.375, -738.6999999880791)
+[06Oct2021 19:20:54.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
+[06Oct2021 20:31:00.816] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/492602, l='ServerLevel[apocalypse-now]', x=-120.47, y=63.00, z=-815.64]
+[06Oct2021 20:31:46.755] [User Authenticator #69/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
+[06Oct2021 20:31:49.631] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1fac0922
+[06Oct2021 20:31:49.660] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KZcheese[/0:0:0:0:0:0:0:1:5569] logged in with entity id 492752 at (-172.37512043605125, 76.0, -825.516923109169)
+[06Oct2021 20:31:49.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese joined the game
+[06Oct2021 20:32:45.148] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KZcheese lost connection: Disconnected
+[06Oct2021 20:32:45.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese left the game
+[06Oct2021 20:34:21.775] [User Authenticator #70/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
+[06Oct2021 20:34:24.835] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@617493d3
+[06Oct2021 20:34:24.877] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KZcheese[/0:0:0:0:0:0:0:1:5578] logged in with entity id 493293 at (-173.85575846759102, 75.5, -823.8222984569032)
+[06Oct2021 20:34:24.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese joined the game
+[06Oct2021 20:35:33.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Oct2021 20:35:35.985] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Disconnected
+[06Oct2021 20:35:35.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
+[06Oct2021 20:35:36.028] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KZcheese lost connection: Disconnected
+[06Oct2021 20:35:36.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese left the game
+[06Oct2021 20:39:25.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[06Oct2021 20:39:25.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Oct2021 20:39:25.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Oct2021 20:39:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Oct2021 20:39:25.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:overworld
+[06Oct2021 20:39:25.589] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
+[06Oct2021 20:39:25.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_nether
+[06Oct2021 20:39:25.622] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Oct2021 20:39:25.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_end
+[06Oct2021 20:39:25.624] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Oct2021 20:39:25.710] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
+[06Oct2021 20:39:26.574] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Oct2021 20:39:26.626] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

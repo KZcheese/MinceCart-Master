@@ -3864,6 +3864,12 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2021-10-04 10:34:12 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:16 -0400"
@@ -4932,6 +4938,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2021-10-03 13:28:53 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/cut_white_sandstone_from_white_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:16 -0400"
@@ -4961,6 +4973,12 @@
       "has_the_recipe": "2021-09-02 12:44:53 -0400"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2021-10-05 18:17:54 -0400"
+    },
+    "done": false
   },
   "create:tunnel": {
     "criteria": {
@@ -8642,6 +8660,12 @@
     },
     "done": true
   },
+  "create:splitter_tunnel": {
+    "criteria": {
+      "0": "2021-10-04 09:53:49 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:17 -0400"
@@ -10014,6 +10038,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-10-03 14:09:21 -0400",
       "cooked_mutton": "2021-08-17 18:23:03 -0400",
       "sweet_berries": "2021-08-14 21:42:40 -0400",
       "cooked_beef": "2021-08-18 12:31:32 -0400",
