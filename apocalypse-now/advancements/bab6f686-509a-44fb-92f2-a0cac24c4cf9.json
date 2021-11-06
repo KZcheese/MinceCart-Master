@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_gabbro_from_gabbro_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -272,6 +278,12 @@
   "create:recipes/create.palettes/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/black_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -792,6 +804,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/red_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
@@ -843,6 +861,12 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/light_gray_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -927,6 +951,12 @@
   "farmersdelight:recipes/farmersdelight/tatami_block_from_full": {
     "criteria": {
       "has_the_recipe": "2021-09-01 22:44:42 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/gray_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -1128,6 +1158,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/cyan_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -1137,6 +1173,12 @@
   "create:recipes/create.palettes/granite_cobblestone_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cyan_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -1179,6 +1221,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/purple_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -1464,6 +1512,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/pink_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/hellbark_planks": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -1497,6 +1551,12 @@
   "create:recipes/create.base/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/skillet": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -1581,6 +1641,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:15 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/brown_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -1683,6 +1749,12 @@
   "create:recipes/create.palettes/warped_window_pane": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:15 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/light_gray_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -1869,6 +1941,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/magenta_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -2280,6 +2358,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/blue_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:15 -0400"
@@ -2568,6 +2652,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/orange_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_dolomite_stairs": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -2820,6 +2910,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/purple_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
@@ -2865,6 +2961,12 @@
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/red_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -2976,6 +3078,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/magenta_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -3051,6 +3159,12 @@
   "create:item_drain": {
     "criteria": {
       "0": "2021-10-30 23:51:31 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -3534,6 +3648,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/orange_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
@@ -3741,6 +3861,18 @@
   "create:recipes/create.palettes/fancy_weathered_limestone_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/gray_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/blue_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -4176,6 +4308,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas_rug": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "create:recipes/decorations/smelting/glass_pane_from_horizontal_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
@@ -4233,6 +4371,12 @@
   "biomesoplenty:recipes/building_blocks/smooth_white_sandstone_stairs_from_smooth_white_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/white_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -4506,6 +4650,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/green_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -4608,9 +4758,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/pink_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -4629,6 +4791,12 @@
   "biomesoplenty:recipes/building_blocks/cut_black_sandstone_from_black_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -4953,6 +5121,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/lime_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -5634,6 +5808,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/gray_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_slab_from_polished_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
@@ -5883,6 +6063,12 @@
   "create:recipes/create.palettes/fancy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:15 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/red_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -6144,9 +6330,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/white_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_scoria_stairs": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pink_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -6267,6 +6465,12 @@
   "create:recipes/create.palettes/scoria_cobblestone_wall_from_scoria_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/blue_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -6423,6 +6627,12 @@
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/brown_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -6948,6 +7158,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/black_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2021-10-24 00:25:42 -0400"
@@ -7191,6 +7407,12 @@
   "create:recipes/create.palettes/granite_bricks_wall_from_granite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/light_blue_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -7592,6 +7814,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/orange_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -7790,6 +8018,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/lime_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -8360,6 +8594,12 @@
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_the_recipe": "2021-09-01 22:44:42 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/cyan_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -8957,6 +9197,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/yellow_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:15 -0400"
@@ -9026,6 +9272,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/light_gray_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -9275,6 +9527,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/magenta_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/light_blue_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -9389,6 +9653,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/white_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/jungle_window": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -9486,6 +9756,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/purple_canvas_sign": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:15 -0400"
@@ -9537,6 +9813,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/black_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -9717,6 +9999,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/light_blue_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -9933,6 +10221,12 @@
     },
     "done": false
   },
+  "create:recipes/create.base/crafting/curiosities/green_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -9954,6 +10248,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/lime_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -10050,6 +10350,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/yellow_toolbox_from_main_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -10398,6 +10704,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/green_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
@@ -10839,6 +11151,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -11106,6 +11424,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:15 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/yellow_toolbox_from_other_toolbox": {
+    "criteria": {
+      "has_the_recipe": "2021-11-05 22:29:36 -0400"
     },
     "done": true
   },
