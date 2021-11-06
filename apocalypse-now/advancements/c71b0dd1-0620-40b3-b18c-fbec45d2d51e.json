@@ -384,6 +384,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2021-10-24 12:38:43 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_white_sandstone": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:16 -0400"
@@ -820,6 +826,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-10-31 00:10:05 -0400"
     },
     "done": true
   },
@@ -2515,6 +2527,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-10-10 22:32:10 -0400"
+    },
+    "done": true
+  },
   "create:crushing_wheel": {
     "criteria": {
       "0": "2021-08-20 20:15:14 -0400"
@@ -3109,6 +3127,12 @@
     },
     "done": true
   },
+  "create:item_drain": {
+    "criteria": {
+      "0": "2021-10-30 23:51:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:17 -0400"
@@ -3238,6 +3262,12 @@
   "biomesoplenty:recipes/building_blocks/smooth_orange_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:16 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2021-10-31 00:14:57 -0400"
     },
     "done": true
   },
@@ -3431,6 +3461,8 @@
     "criteria": {
       "minecraft:pillager": "2021-08-17 18:04:39 -0400",
       "minecraft:skeleton": "2021-08-16 12:18:07 -0400",
+      "minecraft:ravager": "2021-10-31 00:05:30 -0400",
+      "minecraft:vindicator": "2021-10-30 23:41:55 -0400",
       "minecraft:magma_cube": "2021-08-20 14:21:38 -0400",
       "minecraft:spider": "2021-08-14 21:39:49 -0400",
       "minecraft:creeper": "2021-08-18 09:24:59 -0400",
@@ -3438,6 +3470,7 @@
       "minecraft:wither_skeleton": "2021-08-20 14:34:15 -0400",
       "minecraft:cave_spider": "2021-08-18 09:27:32 -0400",
       "minecraft:enderman": "2021-08-20 10:24:59 -0400",
+      "minecraft:vex": "2021-10-31 00:06:52 -0400",
       "minecraft:zombie": "2021-08-15 18:25:59 -0400",
       "minecraft:drowned": "2021-08-18 09:47:56 -0400",
       "minecraft:zombie_villager": "2021-08-15 19:17:05 -0400"
@@ -3954,6 +3987,12 @@
     },
     "done": true
   },
+  "create:spout": {
+    "criteria": {
+      "0": "2021-10-27 22:13:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:17 -0400"
@@ -4347,6 +4386,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-10-31 00:11:12 -0400"
     },
     "done": true
   },
@@ -4976,6 +5021,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "beetroot": "2021-10-24 12:36:06 -0400",
+      "potato": "2021-10-25 22:11:25 -0400",
       "wheat": "2021-10-05 18:17:54 -0400"
     },
     "done": false
@@ -6424,6 +6471,12 @@
   "create:recipes/create.palettes/paved_dark_scoria_stairs": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:17 -0400"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2021-10-27 22:22:15 -0400"
     },
     "done": true
   },
@@ -8258,6 +8311,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "magical_eye": "2021-10-31 00:14:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:16 -0400"
@@ -9233,6 +9292,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:17 -0400"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2021-10-27 21:25:45 -0400"
     },
     "done": true
   },

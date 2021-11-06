@@ -444,6 +444,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2021-10-23 23:34:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
@@ -3175,6 +3181,12 @@
     },
     "done": true
   },
+  "create:item_drain": {
+    "criteria": {
+      "0": "2021-10-30 23:55:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
@@ -3310,6 +3322,12 @@
   "biomesoplenty:recipes/building_blocks/smooth_orange_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2021-11-05 20:54:32 -0400"
     },
     "done": true
   },
@@ -3519,6 +3537,7 @@
       "minecraft:piglin": "2021-08-17 22:13:52 -0400",
       "minecraft:silverfish": "2021-08-22 01:24:11 -0400",
       "minecraft:enderman": "2021-08-23 21:41:25 -0400",
+      "minecraft:vex": "2021-10-31 00:11:08 -0400",
       "minecraft:zombie": "2021-08-10 00:01:17 -0400",
       "minecraft:drowned": "2021-08-12 12:05:40 -0400",
       "minecraft:zombie_villager": "2021-08-14 22:24:56 -0400"
@@ -3618,6 +3637,12 @@
   "biomesoplenty:recipes/redstone/dead_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-10-31 00:07:25 -0400"
     },
     "done": true
   },
@@ -4425,6 +4450,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-10-31 00:11:12 -0400"
+    },
+    "done": true
+  },
   "sewingkit:recipes/sewing_kit/stone_sewing_needle": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
@@ -4638,6 +4669,12 @@
   "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2021-10-17 15:28:33 -0400"
     },
     "done": true
   },
@@ -4893,6 +4930,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2021-10-09 09:03:24 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/black_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
@@ -5054,8 +5097,10 @@
       "onion": "2021-09-11 14:13:19 -0400",
       "tomato": "2021-09-11 14:13:39 -0400",
       "rice": "2021-09-11 13:51:36 -0400",
+      "brown_mushroom": "2021-11-05 20:53:22 -0400",
       "sugar_cane": "2021-09-04 18:14:33 -0400",
-      "wheat": "2021-09-04 14:05:53 -0400"
+      "wheat": "2021-09-04 14:05:53 -0400",
+      "melon": "2021-10-24 09:38:47 -0400"
     },
     "done": false
   },
@@ -5230,6 +5275,12 @@
   "farmersdelight:recipes/farmersdelight/full_tatami_mat": {
     "criteria": {
       "has_the_recipe": "2021-09-03 22:49:30 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye_recipe": {
+    "criteria": {
+      "witch_pupil": "2021-11-01 11:39:57 -0400"
     },
     "done": true
   },
@@ -5887,6 +5938,12 @@
     },
     "done": true
   },
+  "create:overstress_flywheel": {
+    "criteria": {
+      "0": "2021-10-31 00:01:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
@@ -6512,6 +6569,12 @@
     },
     "done": true
   },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2021-10-30 23:54:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_acacia_wood": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
@@ -6815,6 +6878,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:44 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_mushroom_colony": {
+    "criteria": {
+      "brown_mushroom_colony": "2021-11-05 20:53:19 -0400"
     },
     "done": true
   },
@@ -7525,7 +7594,8 @@
       "minecraft:pig": "2021-09-04 17:49:14 -0400",
       "minecraft:sheep": "2021-09-25 09:07:11 -0400",
       "minecraft:cow": "2021-08-12 12:27:18 -0400",
-      "minecraft:chicken": "2021-08-14 13:09:29 -0400"
+      "minecraft:chicken": "2021-08-14 13:09:29 -0400",
+      "minecraft:horse": "2021-10-19 10:13:35 -0400"
     },
     "done": false
   },
@@ -7930,6 +8000,14 @@
       "has_the_recipe": "2021-08-09 23:36:46 -0400"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "shepherds_pie": "2021-11-02 09:26:41 -0400",
+      "honey_glazed_ham": "2021-10-10 23:16:15 -0400",
+      "roast_chicken": "2021-10-09 17:22:34 -0400"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
@@ -8414,6 +8492,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_the_recipe": "2021-08-09 23:36:45 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourished": "2021-10-09 17:22:34 -0400"
     },
     "done": true
   },
@@ -9740,12 +9824,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-08-09 23:41:39 -0400",
+      "minecraft:jungle_edge": "2021-10-23 22:51:32 -0400",
       "minecraft:forest": "2021-08-09 23:37:00 -0400",
       "minecraft:mountains": "2021-08-15 09:31:48 -0400",
       "minecraft:taiga": "2021-08-12 14:42:25 -0400",
       "minecraft:deep_cold_ocean": "2021-08-11 00:20:21 -0400",
       "minecraft:desert": "2021-09-11 13:22:55 -0400",
       "minecraft:deep_frozen_ocean": "2021-09-04 19:14:38 -0400",
+      "minecraft:jungle": "2021-10-23 22:51:35 -0400",
       "minecraft:deep_lukewarm_ocean": "2021-08-31 08:52:11 -0400",
       "minecraft:beach": "2021-08-09 23:36:46 -0400",
       "minecraft:dark_forest": "2021-08-23 00:59:04 -0400",
@@ -10249,6 +10335,7 @@
       "mutton": "2021-08-31 09:02:04 -0400",
       "bread": "2021-08-09 23:55:09 -0400",
       "rotten_flesh": "2021-08-10 00:06:13 -0400",
+      "suspicious_stew": "2021-10-24 10:13:59 -0400",
       "salmon": "2021-08-09 23:45:32 -0400",
       "beetroot": "2021-09-04 19:36:03 -0400",
       "cooked_chicken": "2021-09-04 18:09:54 -0400",

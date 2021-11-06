@@ -1,39 +1,140 @@
-[06Oct2021 18:53:17.607] [User Authenticator #67/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
-[06Oct2021 18:53:20.676] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4248de81
-[06Oct2021 18:53:20.723] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KZcheese[/0:0:0:0:0:0:0:1:5308] logged in with entity id 479478 at (-176.08641808266384, 75.0, -826.8185592656156)
-[06Oct2021 18:53:20.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese joined the game
-[06Oct2021 18:56:29.181] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KZcheese lost connection: Disconnected
-[06Oct2021 18:56:29.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese left the game
-[06Oct2021 19:20:51.756] [User Authenticator #68/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
-[06Oct2021 19:20:54.710] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@20eb2e31
-[06Oct2021 19:20:54.741] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:5388] logged in with entity id 480266 at (-78.06711331455615, 64.375, -738.6999999880791)
-[06Oct2021 19:20:54.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
-[06Oct2021 20:31:00.816] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/492602, l='ServerLevel[apocalypse-now]', x=-120.47, y=63.00, z=-815.64]
-[06Oct2021 20:31:46.755] [User Authenticator #69/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
-[06Oct2021 20:31:49.631] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1fac0922
-[06Oct2021 20:31:49.660] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KZcheese[/0:0:0:0:0:0:0:1:5569] logged in with entity id 492752 at (-172.37512043605125, 76.0, -825.516923109169)
-[06Oct2021 20:31:49.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese joined the game
-[06Oct2021 20:32:45.148] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KZcheese lost connection: Disconnected
-[06Oct2021 20:32:45.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese left the game
-[06Oct2021 20:34:21.775] [User Authenticator #70/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
-[06Oct2021 20:34:24.835] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@617493d3
-[06Oct2021 20:34:24.877] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KZcheese[/0:0:0:0:0:0:0:1:5578] logged in with entity id 493293 at (-173.85575846759102, 75.5, -823.8222984569032)
-[06Oct2021 20:34:24.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese joined the game
-[06Oct2021 20:35:33.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[06Oct2021 20:35:35.985] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Disconnected
-[06Oct2021 20:35:35.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
-[06Oct2021 20:35:36.028] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KZcheese lost connection: Disconnected
-[06Oct2021 20:35:36.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese left the game
-[06Oct2021 20:39:25.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[06Oct2021 20:39:25.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[06Oct2021 20:39:25.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[06Oct2021 20:39:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[06Oct2021 20:39:25.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:overworld
-[06Oct2021 20:39:25.589] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
-[06Oct2021 20:39:25.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_nether
-[06Oct2021 20:39:25.622] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06Oct2021 20:39:25.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_end
-[06Oct2021 20:39:25.624] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06Oct2021 20:39:25.710] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
-[06Oct2021 20:39:26.574] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06Oct2021 20:39:26.626] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Nov2021 14:19:48.959] [User Authenticator #107/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player jamesg003 is 08036184-53d9-4553-804f-d79dfa61f309
+[05Nov2021 14:19:53.016] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@10d02770
+[05Nov2021 14:19:53.078] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jamesg003[/0:0:0:0:0:0:0:1:14783] logged in with entity id 884573 at (-79.09654938013729, 64.0, -762.1739628886476)
+[05Nov2021 14:19:53.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 joined the game
+[05Nov2021 14:58:07.044] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jamesg003 lost connection: Disconnected
+[05Nov2021 14:58:07.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 left the game
+[05Nov2021 14:58:15.310] [User Authenticator #108/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player jamesg003 is 08036184-53d9-4553-804f-d79dfa61f309
+[05Nov2021 14:58:18.300] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6d4be11d
+[05Nov2021 14:58:18.359] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jamesg003[/0:0:0:0:0:0:0:1:14895] logged in with entity id 892089 at (75.19634413096439, 62.0, -706.3805910760977)
+[05Nov2021 14:58:18.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 joined the game
+[05Nov2021 14:59:47.381] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.2915544998969608
+[05Nov2021 14:59:47.416] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.8246911790247395
+[05Nov2021 14:59:47.498] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.5139058588191574
+[05Nov2021 14:59:47.548] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.516435880171116
+[05Nov2021 14:59:47.602] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.518106506764866
+[05Nov2021 14:59:47.649] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.5191025027985461
+[05Nov2021 14:59:47.706] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 1.0624453267259923
+[05Nov2021 14:59:47.713] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.5200229769920952
+[05Nov2021 14:59:47.798] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.5202232135832219
+[05Nov2021 14:59:47.850] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 1.0642177940985675
+[05Nov2021 14:59:47.866] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 1.6082760709670083
+[05Nov2021 14:59:47.948] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.520440033374598
+[05Nov2021 14:59:47.981] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.5204582703203187
+[05Nov2021 14:59:48.023] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 1.0645786250090623
+[05Nov2021 14:59:48.076] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.520473249978636
+[05Nov2021 14:59:48.111] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.5204760438629137
+[05Nov2021 14:59:48.213] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.5204052147577158
+[05Nov2021 14:59:48.247] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 1.0639187538979513
+[05Nov2021 14:59:48.303] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 1.6038172726978246
+[05Nov2021 14:59:48.327] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.505101121221287
+[05Nov2021 14:59:48.369] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 1.0165712020674391
+[05Nov2021 14:59:48.411] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.4670319414166215
+[05Nov2021 14:59:48.470] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.4414202188688705
+[05Nov2021 14:59:48.553] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.42417325455141963
+[05Nov2021 14:59:48.610] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.4149447478125694
+[05Nov2021 14:59:48.659] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.41000675785312524
+[05Nov2021 14:59:48.702] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.4073645378787205
+[05Nov2021 15:01:10.300] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/892297, l='ServerLevel[apocalypse-now]', x=196.32, y=70.00, z=-898.40] died, message: 'Farmer was slain by Vindicator'
+[05Nov2021 15:01:31.301] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/892294, l='ServerLevel[apocalypse-now]', x=150.30, y=59.15, z=-901.70] died, message: 'Farmer was shot by Pillager'
+[05Nov2021 15:04:19.602] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/892127, l='ServerLevel[apocalypse-now]', x=143.45, y=62.50, z=-883.52] died, message: 'Farmer was shot by Pillager'
+[05Nov2021 15:04:55.201] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/892300, l='ServerLevel[apocalypse-now]', x=206.45, y=64.92, z=-870.46] died, message: 'Farmer was shot by Pillager'
+[05Nov2021 15:05:08.491] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/892445, l='ServerLevel[apocalypse-now]', x=181.16, y=71.00, z=-889.28] died, message: 'Farmer was slain by Vindicator'
+[05Nov2021 15:05:17.589] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/892124, l='ServerLevel[apocalypse-now]', x=182.59, y=69.00, z=-879.83] died, message: 'Farmer was slain by Vindicator'
+[05Nov2021 15:05:20.398] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/892298, l='ServerLevel[apocalypse-now]', x=187.87, y=67.00, z=-870.26] died, message: 'Farmer was shot by Pillager'
+[05Nov2021 15:05:45.945] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/892123, l='ServerLevel[apocalypse-now]', x=159.66, y=63.00, z=-883.61] died, message: 'Librarian was shot by Pillager'
+[05Nov2021 15:05:51.050] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/892295, l='ServerLevel[apocalypse-now]', x=217.23, y=66.00, z=-875.72] died, message: 'Farmer was shot by Pillager'
+[05Nov2021 15:06:41.848] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/892126, l='ServerLevel[apocalypse-now]', x=233.13, y=64.00, z=-897.80] died, message: 'Farmer was shot by Pillager'
+[05Nov2021 15:07:57.893] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/892129, l='ServerLevel[apocalypse-now]', x=177.43, y=75.00, z=-911.43] died, message: 'Farmer was shot by Pillager'
+[05Nov2021 15:08:13.748] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/892125, l='ServerLevel[apocalypse-now]', x=212.57, y=66.00, z=-895.57] died, message: 'Villager was shot by Pillager'
+[05Nov2021 15:09:50.103] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jamesg003 lost connection: Disconnected
+[05Nov2021 15:09:50.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 left the game
+[05Nov2021 15:10:54.663] [User Authenticator #109/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player jamesg003 is 08036184-53d9-4553-804f-d79dfa61f309
+[05Nov2021 15:10:57.749] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@406f8e53
+[05Nov2021 15:10:57.793] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jamesg003[/0:0:0:0:0:0:0:1:14946] logged in with entity id 894861 at (-60.74689607845118, 63.0, -775.9931908936368)
+[05Nov2021 15:10:57.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 joined the game
+[05Nov2021 15:20:26.139] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/792447, l='ServerLevel[apocalypse-now]', x=-84.52, y=66.00, z=-830.02] died, message: 'Butcher discovered the floor was lava'
+[05Nov2021 15:22:16.195] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/894896, l='ServerLevel[apocalypse-now]', x=106.18, y=68.13, z=-889.79] died, message: 'Librarian was shot by Pillager'
+[05Nov2021 15:32:06.950] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jamesg003 lost connection: Disconnected
+[05Nov2021 15:32:06.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 left the game
+[05Nov2021 15:33:59.914] [User Authenticator #110/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player jamesg003 is 08036184-53d9-4553-804f-d79dfa61f309
+[05Nov2021 15:34:02.852] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a94af33
+[05Nov2021 15:34:02.898] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jamesg003[/0:0:0:0:0:0:0:1:14988] logged in with entity id 898805 at (31.127337563135505, 63.0, -725.9550115450419)
+[05Nov2021 15:34:02.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 joined the game
+[05Nov2021 15:44:01.754] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=31, y=66, z=-724} BlockPos{x=31, y=66, z=-725}
+[05Nov2021 15:44:01.802] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=31, y=66, z=-724} BlockPos{x=31, y=66, z=-725}
+[05Nov2021 16:02:27.739] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/898843, l='ServerLevel[apocalypse-now]', x=171.88, y=65.02, z=-891.30] died, message: 'Farmer was slain by Vindicator'
+[05Nov2021 16:13:49.757] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.2795452429280658
+[05Nov2021 16:13:49.862] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.29545507172792895
+[05Nov2021 16:13:49.906] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.3139511165948079
+[05Nov2021 16:13:50.007] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.308968955854084
+[05Nov2021 16:13:50.109] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.31071383119569873
+[05Nov2021 16:13:50.175] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.3310932851495636
+[05Nov2021 16:13:50.223] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of jamesg003) moved wrongly! 0.8525284469179724
+[05Nov2021 16:14:41.853] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/907478, l='ServerLevel[apocalypse-now]', x=-124.39, y=63.00, z=-816.20]
+[05Nov2021 16:40:01.702] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jamesg003 lost connection: Disconnected
+[05Nov2021 16:40:01.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 left the game
+[05Nov2021 20:03:35.625] [User Authenticator #111/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
+[05Nov2021 20:03:38.513] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3bab4a01
+[05Nov2021 20:03:38.579] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:1722] logged in with entity id 912305 at (-111.64585118322873, 63.0, -829.787669152548)
+[05Nov2021 20:03:38.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
+[05Nov2021 20:05:18.636] [User Authenticator #112/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
+[05Nov2021 20:05:22.033] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6bbf28ba
+[05Nov2021 20:05:22.081] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KZcheese[/0:0:0:0:0:0:0:1:1728] logged in with entity id 912817 at (-170.70785418274122, 75.0, -824.3471715460305)
+[05Nov2021 20:05:22.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese joined the game
+[05Nov2021 20:05:22.126] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/912815, l='ServerLevel[apocalypse-now]', x=-96.45, y=71.44, z=-756.56]
+[05Nov2021 20:06:01.634] [User Authenticator #113/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player jamesg003 is 08036184-53d9-4553-804f-d79dfa61f309
+[05Nov2021 20:06:04.434] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d235f19
+[05Nov2021 20:06:04.481] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jamesg003[/0:0:0:0:0:0:0:1:1732] logged in with entity id 912952 at (-17.259917616558887, 63.0, -691.971552898696)
+[05Nov2021 20:06:04.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 joined the game
+[05Nov2021 20:06:25.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> discord
+[05Nov2021 20:06:47.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> slep
+[05Nov2021 20:19:32.016] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jamesg003 lost connection: Disconnected
+[05Nov2021 20:19:32.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 left the game
+[05Nov2021 20:19:51.010] [User Authenticator #114/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player jamesg003 is 08036184-53d9-4553-804f-d79dfa61f309
+[05Nov2021 20:19:53.919] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7039bf3b
+[05Nov2021 20:19:53.992] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jamesg003[/0:0:0:0:0:0:0:1:1759] logged in with entity id 916989 at (-117.71669506596928, 63.0, -705.4720964334352)
+[05Nov2021 20:19:53.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 joined the game
+[05Nov2021 20:21:48.363] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jamesg003 lost connection: Disconnected
+[05Nov2021 20:21:48.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 left the game
+[05Nov2021 20:22:27.263] [User Authenticator #115/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player jamesg003 is 08036184-53d9-4553-804f-d79dfa61f309
+[05Nov2021 20:22:32.769] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4b9277be
+[05Nov2021 20:22:32.813] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jamesg003[/0:0:0:0:0:0:0:1:1766] logged in with entity id 918106 at (30.636340931189974, 88.5, -723.8582688516632)
+[05Nov2021 20:22:32.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 joined the game
+[05Nov2021 20:24:25.615] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jamesg003 lost connection: Disconnected
+[05Nov2021 20:24:25.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jamesg003 left the game
+[05Nov2021 20:34:51.569] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KZcheese lost connection: Disconnected
+[05Nov2021 20:34:51.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese left the game
+[05Nov2021 20:36:56.976] [User Authenticator #116/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
+[05Nov2021 20:37:00.290] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@57b8da96
+[05Nov2021 20:37:00.335] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KZcheese[/0:0:0:0:0:0:0:1:1786] logged in with entity id 921394 at (-90.19177213154813, 65.75, -852.3536499146524)
+[05Nov2021 20:37:00.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese joined the game
+[05Nov2021 20:40:21.517] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KZcheese lost connection: Disconnected
+[05Nov2021 20:40:21.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese left the game
+[05Nov2021 20:42:26.293] [User Authenticator #117/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
+[05Nov2021 20:42:29.673] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1fab035b
+[05Nov2021 20:42:29.725] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KZcheese[/0:0:0:0:0:0:0:1:1820] logged in with entity id 922698 at (-131.39157191301717, 68.0, -855.6766172727823)
+[05Nov2021 20:42:29.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese joined the game
+[05Nov2021 20:47:28.509] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/923739, l='ServerLevel[apocalypse-now]', x=-120.47, y=63.00, z=-815.69]
+[05Nov2021 20:47:28.510] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/923739, l='ServerLevel[apocalypse-now]', x=-120.47, y=63.00, z=-815.69]
+[05Nov2021 20:53:19.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot has made the advancement [Fungus Among Us]
+[05Nov2021 20:54:32.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot has made the advancement [Fallen Sorcerer]
+[05Nov2021 20:56:07.013] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KZcheese lost connection: Disconnected
+[05Nov2021 20:56:07.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese left the game
+[05Nov2021 20:56:14.589] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
+[05Nov2021 20:56:14.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
+[05Nov2021 20:56:19.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[05Nov2021 20:56:19.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: H%eL#u&8oL0sH%eL#u&8oL0sH%eL#u&8oL0sH%eL#u&8oL0sstop<--[HERE]
+[05Nov2021 20:56:20.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[05Nov2021 20:56:20.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Nov2021 20:56:20.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Nov2021 20:56:20.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Nov2021 20:56:20.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:overworld
+[05Nov2021 20:56:21.762] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
+[05Nov2021 20:56:21.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_nether
+[05Nov2021 20:56:21.765] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Nov2021 20:56:21.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_end
+[05Nov2021 20:56:21.766] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Nov2021 20:56:21.841] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
+[05Nov2021 20:56:22.840] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Nov2021 20:56:22.842] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
