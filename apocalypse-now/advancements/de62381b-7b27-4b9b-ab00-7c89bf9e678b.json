@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2021-11-20 22:03:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
@@ -428,6 +434,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2021-11-12 23:31:00 -0500"
     },
     "done": true
   },
@@ -1023,6 +1035,12 @@
   "create:recipes/create.palettes/gabbro_bricks_from_gabbro_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2021-11-21 00:37:31 -0500"
     },
     "done": true
   },
@@ -2013,6 +2031,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-11-08 14:46:52 -0500"
     },
     "done": true
   },
@@ -3150,6 +3174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-11-12 23:44:41 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/content_observer": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
@@ -3330,6 +3360,12 @@
     },
     "done": true
   },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2021-11-13 00:39:39 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_scoria_slab_from_polished_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
@@ -3341,6 +3377,13 @@
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "crystalline_chasm": "2021-11-09 00:06:59 -0500",
+      "withered_abyss": "2021-11-09 00:05:40 -0500"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/limestone_cobblestone_wall_from_limestone_cobblestone_stonecutting": {
     "criteria": {
@@ -3507,12 +3550,20 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2021-10-07 01:09:24 -0400",
+      "minecraft:blaze": "2021-11-09 00:07:58 -0500",
       "minecraft:skeleton": "2021-10-05 01:30:26 -0400",
       "minecraft:ravager": "2021-10-31 00:10:59 -0400",
+      "minecraft:vindicator": "2021-11-12 23:26:18 -0500",
       "minecraft:spider": "2021-10-04 00:14:57 -0400",
+      "minecraft:piglin_brute": "2021-11-13 01:48:23 -0500",
       "minecraft:creeper": "2021-08-14 21:43:25 -0400",
+      "minecraft:slime": "2021-11-11 16:18:48 -0500",
+      "minecraft:evoker": "2021-11-13 00:39:31 -0500",
       "minecraft:witch": "2021-10-31 00:09:41 -0400",
+      "minecraft:wither_skeleton": "2021-11-09 00:08:47 -0500",
+      "minecraft:cave_spider": "2021-11-21 01:10:45 -0500",
       "minecraft:enderman": "2021-09-26 00:14:41 -0400",
+      "minecraft:silverfish": "2021-11-13 00:48:05 -0500",
       "minecraft:zombie": "2021-08-14 21:41:38 -0400",
       "minecraft:drowned": "2021-10-23 00:04:48 -0400",
       "minecraft:zombie_villager": "2021-10-05 01:35:24 -0400"
@@ -4251,6 +4302,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2021-11-13 01:42:31 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_scoria": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
@@ -4668,6 +4725,12 @@
   "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2021-11-13 01:48:01 -0500"
     },
     "done": true
   },
@@ -6297,6 +6360,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2021-11-21 00:54:13 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/black_seat": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
@@ -7281,6 +7350,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-11-08 14:46:52 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:54 -0400"
@@ -7563,6 +7638,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-11-21 21:25:28 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
@@ -7640,6 +7721,12 @@
   "create:recipes/create.palettes/gabbro_bricks_wall_from_gabbro_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2021-11-23 23:30:33 -0500"
     },
     "done": true
   },
@@ -7979,6 +8066,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2021-11-06 00:24:25 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_weathered_limestone_stairs": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:54 -0400"
@@ -8000,6 +8093,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2021-11-12 23:59:46 -0500"
     },
     "done": true
   },
@@ -8150,6 +8249,12 @@
   "farmersdelight:recipes/farmersdelight/beef_patty_from_smoking": {
     "criteria": {
       "has_the_recipe": "2021-09-11 21:45:24 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "withered_abyss": "2021-11-09 00:05:40 -0500"
     },
     "done": true
   },
@@ -9774,6 +9879,7 @@
       "minecraft:mountains": "2021-10-30 00:54:22 -0400",
       "minecraft:taiga": "2021-10-30 00:53:58 -0400",
       "minecraft:desert_hills": "2021-09-11 23:47:40 -0400",
+      "minecraft:giant_tree_taiga": "2021-11-13 01:23:39 -0500",
       "minecraft:deep_cold_ocean": "2021-08-11 00:20:21 -0400",
       "minecraft:desert": "2021-09-11 23:42:40 -0400",
       "minecraft:deep_frozen_ocean": "2021-09-11 22:01:39 -0400",
@@ -9784,6 +9890,8 @@
       "minecraft:dark_forest": "2021-10-30 15:22:01 -0400",
       "minecraft:river": "2021-08-11 00:18:40 -0400",
       "minecraft:lukewarm_ocean": "2021-09-11 21:57:11 -0400",
+      "minecraft:wooded_mountains": "2021-11-23 23:29:32 -0500",
+      "minecraft:wooded_hills": "2021-11-13 01:45:26 -0500",
       "minecraft:stone_shore": "2021-10-30 00:54:39 -0400",
       "minecraft:savanna": "2021-09-22 22:17:21 -0400",
       "minecraft:plains": "2021-09-11 23:48:30 -0400"
@@ -10909,6 +11017,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-11-09 00:07:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
@@ -11086,6 +11200,12 @@
   "create:recipes/create.palettes/gabbro_bricks_slab_from_gabbro_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2021-11-13 01:39:45 -0500"
     },
     "done": true
   },

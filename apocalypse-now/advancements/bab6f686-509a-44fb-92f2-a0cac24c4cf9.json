@@ -2544,6 +2544,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-11-08 20:59:03 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_cobblestone_wall_from_andesite_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -3314,6 +3320,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "crystalline_chasm": "2021-11-08 20:56:43 -0500",
       "withered_abyss": "2021-08-17 22:23:26 -0400"
     },
     "done": false
@@ -3489,6 +3496,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2021-10-31 00:06:57 -0400",
+      "minecraft:blaze": "2021-11-08 20:59:02 -0500",
       "minecraft:skeleton": "2021-08-14 22:01:01 -0400",
       "minecraft:hoglin": "2021-08-17 22:27:55 -0400",
       "minecraft:vindicator": "2021-10-31 00:06:04 -0400",
@@ -3496,11 +3504,15 @@
       "minecraft:spider": "2021-08-14 21:59:05 -0400",
       "minecraft:piglin_brute": "2021-08-17 22:15:46 -0400",
       "minecraft:creeper": "2021-08-14 21:58:53 -0400",
+      "minecraft:evoker": "2021-11-10 21:48:46 -0500",
+      "minecraft:zombified_piglin": "2021-11-08 21:00:31 -0500",
       "minecraft:witch": "2021-10-31 00:06:16 -0400",
+      "minecraft:wither_skeleton": "2021-11-08 20:59:27 -0500",
       "minecraft:piglin": "2021-08-17 22:10:11 -0400",
       "minecraft:silverfish": "2021-10-24 00:05:56 -0400",
       "minecraft:vex": "2021-10-31 00:08:04 -0400",
-      "minecraft:zombie": "2021-08-14 21:39:06 -0400"
+      "minecraft:zombie": "2021-08-14 21:39:06 -0400",
+      "minecraft:drowned": "2021-11-05 23:10:46 -0400"
     },
     "done": false
   },
@@ -5385,6 +5397,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2021-11-10 21:55:41 -0500"
     },
     "done": true
   },
@@ -7766,6 +7784,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2021-11-05 23:15:17 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
@@ -7879,6 +7903,7 @@
       "vegetable_soup": "2021-10-06 23:02:31 -0400",
       "honey_glazed_ham": "2021-10-05 22:11:06 -0400",
       "ratatouille": "2021-10-06 22:57:22 -0400",
+      "pasta_with_meatballs": "2021-11-08 21:38:26 -0500",
       "roast_chicken": "2021-10-05 22:31:23 -0400"
     },
     "done": false
@@ -9706,6 +9731,8 @@
       "minecraft:desert": "2021-09-22 22:39:53 -0400",
       "minecraft:jungle": "2021-10-23 22:51:49 -0400",
       "minecraft:jungle_hills": "2021-10-23 23:04:45 -0400",
+      "minecraft:warm_ocean": "2021-11-12 23:07:28 -0500",
+      "minecraft:savanna_plateau": "2021-11-12 23:13:54 -0500",
       "minecraft:beach": "2021-08-09 21:43:15 -0400",
       "minecraft:river": "2021-08-14 21:34:19 -0400",
       "minecraft:lukewarm_ocean": "2021-10-23 22:48:14 -0400",
@@ -10215,6 +10242,7 @@
       "apple": "2021-08-16 21:47:21 -0400",
       "spider_eye": "2021-08-14 22:01:08 -0400",
       "potato": "2021-08-16 21:51:34 -0400",
+      "bread": "2021-11-10 21:56:26 -0500",
       "salmon": "2021-08-16 21:56:14 -0400",
       "cooked_chicken": "2021-10-25 21:08:35 -0400",
       "cooked_salmon": "2021-08-14 21:45:56 -0400"
@@ -10812,6 +10840,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-11-08 20:59:08 -0500"
     },
     "done": true
   },

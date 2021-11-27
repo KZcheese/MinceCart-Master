@@ -1,879 +1,187 @@
-[05Nov2021 22:32:34.516] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.0, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[05Nov2021 22:32:34.526] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_211 by Oracle Corporation
-[05Nov2021 22:32:35.364] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[05Nov2021 22:32:35.411] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/kevin/Documents/Github/MinceCart-Master/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
-[05Nov2021 22:32:36.767] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
-[05Nov2021 22:32:37.504] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[05Nov2021 22:32:37.859] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/tileentity/SignTileEntityRenderer for invalid dist DEDICATED_SERVER
-[05Nov2021 22:32:37.859] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/tileentity/SignTileEntityRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/tileentity/SignTileEntityRenderer for invalid dist DEDICATED_SERVER)
-[05Nov2021 22:32:37.859] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.tileentity.SignTileEntityRenderer was not found farmersdelight.mixins.json:CanvasSignMaterialMixin
-[05Nov2021 22:32:37.967] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
-[05Nov2021 22:32:38.235] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
-[05Nov2021 22:32:38.573] [main/WARN] [mixin/]: @Mixin target net/minecraft/block/AbstractBlock$AbstractBlockState$Cache is public in ferritecore.blockstatecache.mixin.json:BlockStateCacheMixin and should be specified in value
-[05Nov2021 22:32:38.850] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
-[05Nov2021 22:32:41.099] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
-[05Nov2021 22:32:41.716] [main/INFO] [FerriteCore - class definer/]: Using Java 8 class definer
-[05Nov2021 22:32:44.607] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
-[05Nov2021 22:32:47.745] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `cavalry` for name `horses_majesty`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[05Nov2021 22:32:48.096] [modloading-worker-3/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
-[05Nov2021 22:32:48.405] [modloading-worker-4/INFO] [APTweaks/]: Registering common config ...
-[05Nov2021 22:32:48.535] [modloading-worker-1/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[05Nov2021 22:32:48.773] [modloading-worker-3/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.WaterEffect as a FluidEffect for Water with the ID 0
-[05Nov2021 22:32:48.895] [modloading-worker-4/INFO] [APTweaks/]: Registering server config ...
-[05Nov2021 22:32:48.780] [modloading-worker-5/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.0, for MC 1.16.5 with MCP 20210115.111550
-[05Nov2021 22:32:48.938] [modloading-worker-4/INFO] [APTweaks/]: Registering client config ...
-[05Nov2021 22:32:48.799] [modloading-worker-6/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
-[05Nov2021 22:32:48.789] [modloading-worker-3/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.LavaEffect as a FluidEffect for Lava with the ID 1
-[05Nov2021 22:32:48.953] [modloading-worker-5/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.0 Initialized
-[05Nov2021 22:32:49.077] [modloading-worker-6/INFO] [expandability/]: ExpandAbility here, who dis?
-[05Nov2021 22:32:49.130] [modloading-worker-7/INFO] [STDOUT/]: [cofh.core.init.CoreConfig:genClientConfig:110]: Client config gen
-[05Nov2021 22:32:52.328] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Blocks registered!
-[05Nov2021 22:32:52.694] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Items registered!
-[05Nov2021 22:32:52.818] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Block Entities registered!
-[05Nov2021 22:32:52.860] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Entities registered!
-[05Nov2021 22:32:52.877] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[05Nov2021 22:32:52.878] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[05Nov2021 22:32:52.913] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Block Entities registered!
-[05Nov2021 22:32:53.074] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Sounds registered!
-[05Nov2021 22:32:54.863] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Biomes registered!
-[05Nov2021 22:32:54.866] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Registering block placer types!
-[05Nov2021 22:32:54.874] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Decorators registered!
-[05Nov2021 22:32:54.889] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Features registered!
-[05Nov2021 22:32:54.899] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Structures registered!
-[05Nov2021 22:32:54.908] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Surface builders Registered!
-[05Nov2021 22:32:55.021] [main/INFO] [APTweaks:DebugManager/]: Try to change log level to info
-[05Nov2021 22:32:55.026] [main/INFO] [APTweaks:DebugManager/]: Change log level from INFO to INFO
-[05Nov2021 22:32:55.027] [main/INFO] [APTweaks/]: Loaded common config file adaptive_performance_tweaks-common.toml ...
-[05Nov2021 22:32:55.042] [Thread-1/INFO] [APTweaks/]: Reload common config file adaptive_performance_tweaks-common.toml ...
-[05Nov2021 22:32:55.043] [Thread-1/WARN] [APTweaks/]: Changed values are not considered until the next server restart!
-[05Nov2021 22:32:55.125] [main/INFO] [quark/]: Loading Module Chain Linkage
-[05Nov2021 22:32:55.127] [main/INFO] [quark/]: Loading Module Chains Connect Blocks
-[05Nov2021 22:32:55.128] [main/INFO] [quark/]: Loading Module Chute
-[05Nov2021 22:32:55.129] [main/INFO] [quark/]: Loading Module Color Slime
-[05Nov2021 22:32:55.129] [main/INFO] [quark/]: Loading Module Dispensers Place Blocks
-[05Nov2021 22:32:55.129] [main/INFO] [quark/]: Loading Module Ender Watcher
-[05Nov2021 22:32:55.130] [main/INFO] [quark/]: Loading Module Endermites Form Shulkers
-[05Nov2021 22:32:55.136] [main/INFO] [quark/]: Loading Module Feeding Trough
-[05Nov2021 22:32:55.138] [main/INFO] [quark/]: Loading Module Gravisand
-[05Nov2021 22:32:55.139] [main/INFO] [quark/]: Loading Module Iron Rod
-[05Nov2021 22:32:55.139] [main/INFO] [quark/]: Loading Module Jukebox Automation
-[05Nov2021 22:32:55.142] [main/INFO] [quark/]: Loading Module Metal Buttons
-[05Nov2021 22:32:55.143] [main/INFO] [quark/]: Loading Module Obsidian Plate
-[05Nov2021 22:32:55.144] [main/INFO] [quark/]: Loading Module Pistons Move Tile Entities
-[05Nov2021 22:32:55.146] [main/INFO] [quark/]: Loading Module Redstone Circuit
-[05Nov2021 22:32:55.147] [main/INFO] [quark/]: Loading Module Weather Sensor
-[05Nov2021 22:32:55.147] [main/INFO] [quark/]: Loading Module Bamboo Mat
-[05Nov2021 22:32:55.148] [main/INFO] [quark/]: Loading Module Burn Vines
-[05Nov2021 22:32:55.149] [main/INFO] [quark/]: Loading Module Celebratory Lamps
-[05Nov2021 22:32:55.150] [main/INFO] [quark/]: Loading Module Cobblestone Bricks
-[05Nov2021 22:32:55.150] [main/INFO] [quark/]: Loading Module Compressed Blocks
-[05Nov2021 22:32:55.151] [main/INFO] [quark/]: Loading Module Duskbound Blocks
-[05Nov2021 22:32:55.152] [main/INFO] [quark/]: Loading Module Framed Glass
-[05Nov2021 22:32:55.152] [main/INFO] [quark/]: Loading Module Gold Bars
-[05Nov2021 22:32:55.153] [main/INFO] [quark/]: Loading Module Grate
-[05Nov2021 22:32:55.153] [main/INFO] [quark/]: Loading Module Hedges
-[05Nov2021 22:32:55.154] [main/INFO] [quark/]: Loading Module Iron Plates
-[05Nov2021 22:32:55.155] [main/INFO] [quark/]: Loading Module Item Frames
-[05Nov2021 22:32:55.155] [main/INFO] [quark/]: Loading Module Leaf Carpet
-[05Nov2021 22:32:55.156] [main/INFO] [quark/]: Loading Module Lit Lamp
-[05Nov2021 22:32:55.156] [main/INFO] [quark/]: Loading Module Midori
-[05Nov2021 22:32:55.156] [main/INFO] [quark/]: Loading Module More Brick Types
-[05Nov2021 22:32:55.157] [main/INFO] [quark/]: Loading Module More Potted Plants
-[05Nov2021 22:32:55.157] [main/INFO] [quark/]: Loading Module More Stone Variants
-[05Nov2021 22:32:55.158] [main/INFO] [quark/]: Loading Module Nether Brick Fence Gate
-[05Nov2021 22:32:55.158] [main/INFO] [quark/]: Loading Module Paper Decor
-[05Nov2021 22:32:55.159] [main/INFO] [quark/]: Loading Module Quilted Wool
-[05Nov2021 22:32:55.159] [main/INFO] [quark/]: Loading Module Rope
-[05Nov2021 22:32:55.160] [main/INFO] [quark/]: Loading Module Shallow Dirt
-[05Nov2021 22:32:55.161] [main/INFO] [quark/]: Loading Module Shingles
-[05Nov2021 22:32:55.161] [main/INFO] [quark/]: Loading Module Soul Sandstone
-[05Nov2021 22:32:55.162] [main/INFO] [quark/]: Loading Module Stained Planks
-[05Nov2021 22:32:55.162] [main/INFO] [quark/]: Loading Module Stools
-[05Nov2021 22:32:55.164] [main/INFO] [quark/]: Loading Module Sturdy Stone
-[05Nov2021 22:32:55.164] [main/INFO] [quark/]: Loading Module Tallow And Candles
-[05Nov2021 22:32:55.166] [main/INFO] [quark/]: Loading Module Thatch
-[05Nov2021 22:32:55.166] [main/INFO] [quark/]: Loading Module Tie Leads To Fences
-[05Nov2021 22:32:55.168] [main/INFO] [quark/]: Loading Module Turf
-[05Nov2021 22:32:55.169] [main/INFO] [quark/]: Loading Module Variant Bookshelves
-[05Nov2021 22:32:55.170] [main/INFO] [quark/]: Loading Module Variant Chests
-[05Nov2021 22:32:55.176] [main/INFO] [quark/]: Loading Module Variant Ladders
-[05Nov2021 22:32:55.176] [main/INFO] [quark/]: Loading Module Vertical Planks
-[05Nov2021 22:32:55.177] [main/INFO] [quark/]: Loading Module Vertical Slabs
-[05Nov2021 22:32:55.177] [main/INFO] [quark/]: Loading Module Wooden Posts
-[05Nov2021 22:32:55.178] [main/INFO] [quark/]: Loading Module Chests In Boats
-[05Nov2021 22:32:55.179] [main/INFO] [quark/]: Loading Module Easy Transfering
-[05Nov2021 22:32:55.180] [main/INFO] [quark/]: Loading Module Hotbar Changer
-[05Nov2021 22:32:55.180] [main/INFO] [quark/]: Loading Module Inventory Sorting
-[05Nov2021 22:32:55.181] [main/INFO] [quark/]: Loading Module Item Sharing
-[05Nov2021 22:32:55.181] [main/INFO] [quark/]: Loading Module Right Click Armor
-[05Nov2021 22:32:55.183] [main/INFO] [quark/]: Loading Module Shulker Box Right Click
-[05Nov2021 22:32:55.185] [main/INFO] [quark/]: Loading Module Endermosh Music Disc
-[05Nov2021 22:32:55.187] [main/INFO] [quark/]: Loading Module Abacus
-[05Nov2021 22:32:55.188] [main/INFO] [quark/]: Loading Module Ambient Discs
-[05Nov2021 22:32:55.189] [main/INFO] [quark/]: Loading Module Ancient Tomes
-[05Nov2021 22:32:55.191] [main/INFO] [quark/]: Loading Module Bottled Cloud
-[05Nov2021 22:32:55.192] [main/INFO] [quark/]: Loading Module Camera
-[05Nov2021 22:32:55.194] [main/INFO] [quark/]: Loading Module Color Runes
-[05Nov2021 22:32:55.194] [main/INFO] [quark/]: Loading Module Pathfinder Maps
-[05Nov2021 22:32:55.196] [main/INFO] [quark/]: Loading Module Pickarang
-[05Nov2021 22:32:55.199] [main/INFO] [quark/]: Loading Module Seed Pouch
-[05Nov2021 22:32:55.203] [main/INFO] [quark/]: Loading Module Slime In A Bucket
-[05Nov2021 22:32:55.204] [main/INFO] [quark/]: Loading Module Trowel
-[05Nov2021 22:32:55.204] [main/INFO] [quark/]: Loading Module Skull Pikes
-[05Nov2021 22:32:55.206] [main/INFO] [quark/]: Loading Module Armed Armor Stands
-[05Nov2021 22:32:55.207] [main/INFO] [quark/]: Loading Module Automatic Recipe Unlock
-[05Nov2021 22:32:55.208] [main/INFO] [quark/]: Loading Module Axe Leaf Harvesting
-[05Nov2021 22:32:55.209] [main/INFO] [quark/]: Loading Module Better Elytra Rocket
-[05Nov2021 22:32:55.210] [main/INFO] [quark/]: Loading Module Campfires Boost Elytra
-[05Nov2021 22:32:55.211] [main/INFO] [quark/]: Loading Module Compasses Work Everywhere
-[05Nov2021 22:32:55.213] [main/INFO] [quark/]: Loading Module Dirt To Path
-[05Nov2021 22:32:55.215] [main/INFO] [quark/]: Loading Module Double Door Opening
-[05Nov2021 22:32:55.216] [main/INFO] [quark/]: Loading Module Dragon Scales
-[05Nov2021 22:32:55.218] [main/INFO] [quark/]: Loading Module Emotes
-[05Nov2021 22:32:55.219] [main/INFO] [quark/]: Loading Module Enhanced Ladders
-[05Nov2021 22:32:55.221] [main/INFO] [quark/]: Loading Module Glass Shard
-[05Nov2021 22:32:55.222] [main/INFO] [quark/]: Loading Module Hoe Harvesting
-[05Nov2021 22:32:55.226] [main/INFO] [quark/]: Loading Module Improved Sleeping
-[05Nov2021 22:32:55.227] [main/INFO] [quark/]: Loading Module Infinity Bucket
-[05Nov2021 22:32:55.228] [main/INFO] [quark/]: Loading Module Lava Bucket As Trash
-[05Nov2021 22:32:55.229] [main/INFO] [quark/]: Loading Module Lock Rotation
-[05Nov2021 22:32:55.232] [main/INFO] [quark/]: Loading Module More Banner Layers
-[05Nov2021 22:32:55.233] [main/INFO] [quark/]: Loading Module Note Block Mob Sounds
-[05Nov2021 22:32:55.239] [main/INFO] [quark/]: Loading Module Pat The Dogs
-[05Nov2021 22:32:55.241] [main/INFO] [quark/]: Loading Module Poison Potato Usage
-[05Nov2021 22:32:55.242] [main/INFO] [quark/]: Loading Module Reacharound Placing
-[05Nov2021 22:32:55.243] [main/INFO] [quark/]: Loading Module Replace Scaffolding
-[05Nov2021 22:32:55.246] [main/INFO] [quark/]: Loading Module Sign Editing
-[05Nov2021 22:32:55.247] [main/INFO] [quark/]: Loading Module Simple Harvest
-[05Nov2021 22:32:55.249] [main/INFO] [quark/]: Loading Module Snow Golem Player Heads
-[05Nov2021 22:32:55.252] [main/INFO] [quark/]: Loading Module Springy Slime
-[05Nov2021 22:32:55.253] [main/INFO] [quark/]: Loading Module Utility Recipes
-[05Nov2021 22:32:55.254] [main/INFO] [quark/]: Loading Module Villagers Follow Emeralds
-[05Nov2021 22:32:55.256] [main/INFO] [quark/]: Loading Module Big Dungeon
-[05Nov2021 22:32:55.258] [main/INFO] [quark/]: Loading Module Big Stone Clusters
-[05Nov2021 22:32:55.259] [main/INFO] [quark/]: Loading Module Biotite
-[05Nov2021 22:32:55.262] [main/INFO] [quark/]: Loading Module Blossom Trees
-[05Nov2021 22:32:55.262] [main/INFO] [quark/]: Loading Module Cave Roots
-[05Nov2021 22:32:55.262] [main/INFO] [quark/]: Loading Module Chorus Vegetation
-[05Nov2021 22:32:55.263] [main/INFO] [quark/]: Loading Module Crevices
-[05Nov2021 22:32:55.263] [main/INFO] [quark/]: Loading Module Deepslate
-[05Nov2021 22:32:55.264] [main/INFO] [quark/]: Loading Module Fairy Rings
-[05Nov2021 22:32:55.264] [main/INFO] [quark/]: Loading Module Mega Caves
-[05Nov2021 22:32:55.265] [main/INFO] [quark/]: Loading Module Monster Box
-[05Nov2021 22:32:55.267] [main/INFO] [quark/]: Loading Module Nether Obsidian Spikes
-[05Nov2021 22:32:55.268] [main/INFO] [quark/]: Loading Module New Stone Types
-[05Nov2021 22:32:55.270] [main/INFO] [quark/]: Loading Module Realistic World Gen
-[05Nov2021 22:32:55.271] [main/INFO] [quark/]: Loading Module Speleothems
-[05Nov2021 22:32:55.272] [main/INFO] [quark/]: Loading Module Spiral Spires
-[05Nov2021 22:32:55.273] [main/INFO] [quark/]: Loading Module Underground Clay
-[05Nov2021 22:32:55.274] [main/INFO] [quark/]: Loading Module Brimstone Underground Biome
-[05Nov2021 22:32:55.275] [main/INFO] [quark/]: Loading Module Cave Crystal Underground Biome
-[05Nov2021 22:32:55.275] [main/INFO] [quark/]: Loading Module Elder Prismarine Underground Biome
-[05Nov2021 22:32:55.276] [main/INFO] [quark/]: Loading Module Glowshroom Underground Biome
-[05Nov2021 22:32:55.276] [main/INFO] [quark/]: Loading Module Lush Underground Biome
-[05Nov2021 22:32:55.278] [main/INFO] [quark/]: Loading Module Overgrown Underground Biome
-[05Nov2021 22:32:55.278] [main/INFO] [quark/]: Loading Module Permafrost Underground Biome
-[05Nov2021 22:32:55.278] [main/INFO] [quark/]: Loading Module Sandstone Underground Biome
-[05Nov2021 22:32:55.279] [main/INFO] [quark/]: Loading Module Slime Underground Biome
-[05Nov2021 22:32:55.279] [main/INFO] [quark/]: Loading Module Spider Nest Underground Biome
-[05Nov2021 22:32:55.281] [main/INFO] [quark/]: Loading Module Crabs
-[05Nov2021 22:32:55.282] [main/INFO] [quark/]: Loading Module Forgotten
-[05Nov2021 22:32:55.284] [main/INFO] [quark/]: Loading Module Foxhound
-[05Nov2021 22:32:55.286] [main/INFO] [quark/]: Loading Module Frogs
-[05Nov2021 22:32:55.288] [main/INFO] [quark/]: Loading Module Stonelings
-[05Nov2021 22:32:55.289] [main/INFO] [quark/]: Loading Module Toretoise
-[05Nov2021 22:32:55.291] [main/INFO] [quark/]: Loading Module Wraith
-[05Nov2021 22:32:55.291] [main/INFO] [quark/]: Loading Module Auto Walk Keybind
-[05Nov2021 22:32:55.292] [main/INFO] [quark/]: Loading Module Back Button Keybind
-[05Nov2021 22:32:55.292] [main/INFO] [quark/]: Loading Module Chest Searching
-[05Nov2021 22:32:55.292] [main/INFO] [quark/]: Loading Module Greener Grass
-[05Nov2021 22:32:55.293] [main/INFO] [quark/]: Loading Module Improved Mount Hud
-[05Nov2021 22:32:55.293] [main/INFO] [quark/]: Loading Module Improved Tooltips
-[05Nov2021 22:32:55.294] [main/INFO] [quark/]: Loading Module Usage Ticker
-[05Nov2021 22:32:55.294] [main/INFO] [quark/]: Loading Module Variant Animal Textures
-[05Nov2021 22:32:55.295] [main/INFO] [quark/]: Loading Module Backpack
-[05Nov2021 22:32:55.295] [main/INFO] [quark/]: Loading Module Crate
-[05Nov2021 22:32:55.296] [main/INFO] [quark/]: Loading Module Magnets
-[05Nov2021 22:32:55.296] [main/INFO] [quark/]: Loading Module Matrix Enchanting
-[05Nov2021 22:32:55.297] [main/INFO] [quark/]: Loading Module Pipes
-[05Nov2021 22:32:55.297] [main/INFO] [quark/]: Loading Module Totem Of Holding
-[05Nov2021 22:32:55.297] [main/INFO] [quark/]: Loading Module Adjustable Chat
-[05Nov2021 22:32:55.298] [main/INFO] [quark/]: Loading Module Custom Underground Biome
-[05Nov2021 22:32:55.299] [main/INFO] [quark/]: Loading Module Game Nerfs
-[05Nov2021 22:32:55.299] [main/INFO] [quark/]: Loading Module Narrator Readout
-[05Nov2021 22:32:55.300] [main/INFO] [quark/]: Loading Module Overlay Shader
-[05Nov2021 22:32:55.300] [main/INFO] [quark/]: Loading Module Pallet
-[05Nov2021 22:32:55.301] [main/INFO] [quark/]: Loading Module Shiba
-[05Nov2021 22:32:55.488] [modloading-worker-4/INFO] [corgiaoc.byg.BYG/]: BYG: "Common Setup" Event Complete!
-[05Nov2021 22:32:55.562] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Starting version check at https://raw.githubusercontent.com/yungnickyoung/YUNGs-Better-Caves/1.16/versions.json
-[05Nov2021 22:32:55.614] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:shiba, use EntityAttributeCreationEvent instead.
-[05Nov2021 22:32:55.624] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:toretoise, use EntityAttributeCreationEvent instead.
-[05Nov2021 22:32:55.647] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wrapped, use EntityAttributeCreationEvent instead.
-[05Nov2021 22:32:55.649] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:foxhound, use EntityAttributeCreationEvent instead.
-[05Nov2021 22:32:55.666] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:stoneling, use EntityAttributeCreationEvent instead.
-[05Nov2021 22:32:55.671] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:forgotten, use EntityAttributeCreationEvent instead.
-[05Nov2021 22:32:55.672] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:leash_knot_fake, use EntityAttributeCreationEvent instead.
-[05Nov2021 22:32:55.691] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:frog, use EntityAttributeCreationEvent instead.
-[05Nov2021 22:32:55.692] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wraith, use EntityAttributeCreationEvent instead.
-[05Nov2021 22:32:55.698] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:crab, use EntityAttributeCreationEvent instead.
-[05Nov2021 22:32:55.746] [main/INFO] [journeymap/]: Initializing Packet Registries
-[05Nov2021 22:32:55.833] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for guardvillagers:guard, use EntityAttributeCreationEvent instead.
-[05Nov2021 22:32:55.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Found status: BETA Current: 1.16.4-1.1.2 Target: null
-[05Nov2021 22:32:55.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[05Nov2021 22:32:56.042] [modloading-worker-7/INFO] [dev.gigaherz.sewingkit.SewingKitMod/]: Got IMC []
-[05Nov2021 22:32:56.066] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Compostible Blocks Added!
-[05Nov2021 22:32:56.069] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Hoeable Blocks!
-[05Nov2021 22:32:56.075] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Flammables!
-[05Nov2021 22:32:56.079] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added strippable Blocks...
-[05Nov2021 22:32:56.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 5.4.5 Target: null
-[05Nov2021 22:32:56.090] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
-[05Nov2021 22:32:56.121] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: UP_TO_DATE Current: 1.2.6 Target: null
-[05Nov2021 22:32:56.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Nov2021 22:32:56.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 36.2.0 Target: null
-[05Nov2021 22:32:56.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/master/cofh_core/update.json
-[05Nov2021 22:32:56.531] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Found status: UP_TO_DATE Current: 1.3.1 Target: null
-[05Nov2021 22:32:56.531] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [archers_paradox] Starting version check at https://raw.github.com/cofh/version/master/archers_paradox/update.json
-[05Nov2021 22:32:56.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [archers_paradox] Found status: UP_TO_DATE Current: 1.3.1 Target: null
-[05Nov2021 22:32:56.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
-[05Nov2021 22:32:57.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.16.5-1.0.5 Target: 1.16.5-1.0.6
-[05Nov2021 22:33:01.562] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Nov2021 22:33:02.276] [main/INFO] [APTweaks:CommandManager/]: Registering /aptweaks commands ...
-[05Nov2021 22:33:02.476] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, cart1] and [c, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05Nov2021 22:33:02.478] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, carts] and [c, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05Nov2021 22:33:02.480] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, duration] and [cofh, ignite, targets] with inputs: [0, -123, 123]
-[05Nov2021 22:33:02.482] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, targets] and [cofh, ignite, duration] with inputs: [0123]
-[05Nov2021 22:33:02.484] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invis, flag] and [cofh, invis, targets] with inputs: [true, false]
-[05Nov2021 22:33:02.486] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invuln, flag] and [cofh, invuln, targets] with inputs: [true, false]
-[05Nov2021 22:33:02.487] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, cart1] and [c, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05Nov2021 22:33:02.489] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, carts] and [c, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05Nov2021 22:33:02.492] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05Nov2021 22:33:02.504] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05Nov2021 22:33:02.509] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05Nov2021 22:33:02.512] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05Nov2021 22:33:02.520] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05Nov2021 22:33:02.523] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05Nov2021 22:33:02.526] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
-[05Nov2021 22:33:02.528] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
-[05Nov2021 22:33:02.564] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, ToolBelt-1.16.5-1.16.0.jar, NetherPortalFix_1.16.3-7.2.1.jar, pamhc2trees-1.16.3-1.0.1.jar, BiomesOPlenty-1.16.5-13.1.0.477-universal.jar, endremastered-forge-R4.1.1.jar, pamhc2crops-1.16.3-1.0.2.jar, jei-1.16.5-7.7.1.130.jar, pamhc2foodextended-1.16.3-1.0.4.jar, KleeSlabs_1.16.5-9.2.1.jar, flywheel-1.16-0.2.4.jar, curios-forge-1.16.5-4.0.5.3.jar, create-mc1.16.5_v0.3.2f.jar, BetterCaves-Forge-1.16.4-1.1.2.jar, pamhc2foodcore-1.16.3-1.0.2.jar, SewingKit-1.16.5-1.3.1.jar, betterweather-2.0.1.jar, journeymap-1.16.5-5.7.3.jar, AutoRegLib-1.6-49.jar, TravelersBackpack-1.16.5-5.4.5.jar, Artifacts-1.16.5-2.10.3.jar, YungsApi-1.16.4-Forge-13.jar, guardvillagers-1.16.5.1.2.6.jar, SoL-Carrot-1.16.5-1.10.1.jar, Cavalry-1.16.3-1.0.0.0.jar, byg-1.3.5.jar, forge-1.16.5-36.2.0-universal.jar, Quark-r2.4-319.jar, cofh_core-1.16.5-1.3.1.jar, archers_paradox-1.16.5-1.3.1.jar, appleskin-forge-mc1.16.x-2.2.0.jar, expandability-2.0.2-forge.jar, BetterMineshafts-Forge-1.16.4-2.0.4.jar, corpse-1.16.5-1.0.5.jar, DungeonsArise-1.16.5-2.1.47-release.jar, FarmersDelight-1.16.5-0.5.1.jar, smoothboot-forge-1.16.4-1.2.2.jar, FastSuite-1.16.4-1.1.1.jar, Placebo-1.16.5-4.6.0.jar, adaptive_performance_tweaks_1.16.5-1.1.5.jar, sulfuric-1.1.jar, ferritecore-2.1.0-forge.jar, AI-Improvements-1.16.2-0.3.0.jar
-[05Nov2021 22:33:04.935] [Worker-Main4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodextended:cottoncandyitem
-com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
-	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
-	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:86) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:34) ~[fastsuite:1.1.1]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:22) ~[fastsuite:1.1.1]
-	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.complete(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_211]
-[05Nov2021 22:33:04.953] [Worker-Main4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodextended:raspberrytrifleitem
-com.google.gson.JsonSyntaxException: Unknown item tag 'forge:vanilla'
-	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:223) ~[?:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
-	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:34) ~[fastsuite:1.1.1]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:22) ~[fastsuite:1.1.1]
-	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.complete(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_211]
-[05Nov2021 22:33:05.084] [Worker-Main4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodextended:gourmetmuttonpattyitem
-com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/mustard'
-	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:223) ~[?:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
-	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:34) ~[fastsuite:1.1.1]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:22) ~[fastsuite:1.1.1]
-	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.complete(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_211]
-[05Nov2021 22:33:05.220] [Worker-Main4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodextended:bangersandmashitem
-com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:mashedpotatoes'
-	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
-	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
-	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:34) ~[fastsuite:1.1.1]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:22) ~[fastsuite:1.1.1]
-	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.complete(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_211]
-[05Nov2021 22:33:05.236] [Worker-Main4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodextended:rawtofishitem
-com.google.gson.JsonSyntaxException: Unknown item tag 'forge:soysauce'
-	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:223) ~[?:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
-	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:34) ~[fastsuite:1.1.1]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:22) ~[fastsuite:1.1.1]
-	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.complete(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_211]
-[05Nov2021 22:33:05.247] [Worker-Main4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodextended:peachesandcreamoatmealitem
-com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crop/peach'
-	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:223) ~[?:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
-	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:34) ~[fastsuite:1.1.1]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:22) ~[fastsuite:1.1.1]
-	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.complete(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_211]
-[05Nov2021 22:33:05.380] [Worker-Main4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodextended:leafyfishsandwichitem
-com.google.gson.JsonSyntaxException: Unknown item tag 'pamhc2foodcore:basicfishsandwhichitem'
-	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:223) ~[?:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
-	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:34) ~[fastsuite:1.1.1]
-	at shadows.fastsuite.AuxRecipeManager.func_212853_a_(AuxRecipeManager.java:22) ~[fastsuite:1.1.1]
-	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.complete(Unknown Source) ~[?:1.8.0_211]
-	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_211]
-[05Nov2021 22:33:05.404] [Worker-Main4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 22 recipes
-[05Nov2021 22:33:06.811] [Worker-Main4/INFO] [placebo/]: Registered 0 additional loot tables.
-[05Nov2021 22:33:06.960] [Worker-Main4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2151 advancements
-[05Nov2021 22:33:06.966] [Worker-Main4/INFO] [placebo/]: Registered 0 additional recipes.
-[05Nov2021 22:33:07.000] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab wood_slab_0 could not be found.
-[05Nov2021 22:33:07.001] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab wood_slab_1 could not be found.
-[05Nov2021 22:33:07.001] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab other_slab could not be found.
-[05Nov2021 22:33:07.010] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab biotite_slab could not be found.
-[05Nov2021 22:33:07.011] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab snow_bricks_slab_double could not be found.
-[05Nov2021 22:33:07.011] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab sandy_bricks_slab_double could not be found.
-[05Nov2021 22:33:07.012] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab charred_nether_brick_slab could not be found.
-[05Nov2021 22:33:07.012] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab sandstone_bricks_slab_double could not be found.
-[05Nov2021 22:33:07.013] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab sandstone_smooth_slab could not be found.
-[05Nov2021 22:33:07.013] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab red_sandstone_bricks_slab_double could not be found.
-[05Nov2021 22:33:07.013] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab red_sandstone_smooth_slab could not be found.
-[05Nov2021 22:33:07.014] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab end_bricks_slab could not be found.
-[05Nov2021 22:33:07.014] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab prismarine_slab could not be found.
-[05Nov2021 22:33:07.015] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab prismarine_dark_slab could not be found.
-[05Nov2021 22:33:07.015] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab prismarine_bricks_slab could not be found.
-[05Nov2021 22:33:07.015] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stone_diorite_slab could not be found.
-[05Nov2021 22:33:07.016] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stone_diorite_bricks_slab could not be found.
-[05Nov2021 22:33:07.016] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stone_granite_slab could not be found.
-[05Nov2021 22:33:07.016] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stone_granite_bricks_slab could not be found.
-[05Nov2021 22:33:07.017] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stone_andesite_slab could not be found.
-[05Nov2021 22:33:07.017] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stone_andesite_bricks_slab could not be found.
-[05Nov2021 22:33:07.017] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stone_basalt_slab could not be found.
-[05Nov2021 22:33:07.018] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stone_basalt_bricks_slab could not be found.
-[05Nov2021 22:33:07.018] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_gray_slab could not be found.
-[05Nov2021 22:33:07.019] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_magenta_slab could not be found.
-[05Nov2021 22:33:07.019] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_cyan_slab could not be found.
-[05Nov2021 22:33:07.020] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_blue_slab could not be found.
-[05Nov2021 22:33:07.020] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_orange_slab could not be found.
-[05Nov2021 22:33:07.021] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_red_slab could not be found.
-[05Nov2021 22:33:07.021] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_yellow_slab could not be found.
-[05Nov2021 22:33:07.022] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_light_blue_slab could not be found.
-[05Nov2021 22:33:07.023] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_purple_slab could not be found.
-[05Nov2021 22:33:07.023] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_silver_slab could not be found.
-[05Nov2021 22:33:07.024] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_lime_slab could not be found.
-[05Nov2021 22:33:07.025] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_green_slab could not be found.
-[05Nov2021 22:33:07.025] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_black_slab could not be found.
-[05Nov2021 22:33:07.026] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_brown_slab could not be found.
-[05Nov2021 22:33:07.027] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_white_slab could not be found.
-[05Nov2021 22:33:07.027] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_clay_tiles_pink_slab could not be found.
-[05Nov2021 22:33:07.029] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_gray_slab could not be found.
-[05Nov2021 22:33:07.029] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_magenta_slab could not be found.
-[05Nov2021 22:33:07.030] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_cyan_slab could not be found.
-[05Nov2021 22:33:07.030] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_blue_slab could not be found.
-[05Nov2021 22:33:07.031] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_orange_slab could not be found.
-[05Nov2021 22:33:07.031] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_red_slab could not be found.
-[05Nov2021 22:33:07.032] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_yellow_slab could not be found.
-[05Nov2021 22:33:07.032] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_light_blue_slab could not be found.
-[05Nov2021 22:33:07.032] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_purple_slab could not be found.
-[05Nov2021 22:33:07.033] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_silver_slab could not be found.
-[05Nov2021 22:33:07.033] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_lime_slab could not be found.
-[05Nov2021 22:33:07.034] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_green_slab could not be found.
-[05Nov2021 22:33:07.034] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_black_slab could not be found.
-[05Nov2021 22:33:07.034] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_brown_slab could not be found.
-[05Nov2021 22:33:07.035] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_white_slab could not be found.
-[05Nov2021 22:33:07.035] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stained_planks_pink_slab could not be found.
-[05Nov2021 22:33:07.036] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab reed_block_slab could not be found.
-[05Nov2021 22:33:07.037] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab thatch_slab_double could not be found.
-[05Nov2021 22:33:07.038] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab icy_stone_slab could not be found.
-[05Nov2021 22:33:07.038] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab fire_stone_slab could not be found.
-[05Nov2021 22:33:07.039] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stone_limestone_slab could not be found.
-[05Nov2021 22:33:07.040] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab stone_marble_slab could not be found.
-[05Nov2021 22:33:07.040] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab duskbound_block_slab_double could not be found.
-[05Nov2021 22:33:07.041] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab magma_bricks_slab_double could not be found.
-[05Nov2021 22:33:07.041] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab midori_block_slab_double could not be found.
-[05Nov2021 22:33:07.042] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab iron_plate_slab_double could not be found.
-[05Nov2021 22:33:07.042] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab polished_netherrack_bricks_slab could not be found.
-[05Nov2021 22:33:07.042] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab soul_sandstone_slab_double could not be found.
-[05Nov2021 22:33:07.043] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab soul_sandstone_bricks_slab_double could not be found.
-[05Nov2021 22:33:07.043] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab soul_sandstone_smooth_slab could not be found.
-[05Nov2021 22:33:07.044] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab bark_oak_slab could not be found.
-[05Nov2021 22:33:07.044] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab bark_spruce_slab could not be found.
-[05Nov2021 22:33:07.045] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab bark_birch_slab could not be found.
-[05Nov2021 22:33:07.045] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab bark_jungle_slab could not be found.
-[05Nov2021 22:33:07.046] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab bark_acacia_slab could not be found.
-[05Nov2021 22:33:07.046] [Worker-Main4/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs/]: Slab bark_dark_oak_slab could not be found.
-[05Nov2021 22:33:07.207] [Worker-Main4/INFO] [fastsuite/]: Successfully processed 6149 recipes into the AuxRecipeManager.
-[05Nov2021 22:33:13.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[05Nov2021 22:33:13.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Nov2021 22:33:13.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Nov2021 22:33:13.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Nov2021 22:33:13.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Nov2021 22:33:13.606] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
-[05Nov2021 22:33:14.316] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[05Nov2021 22:33:14.318] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[05Nov2021 22:33:14.326] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[05Nov2021 22:33:14.336] [Server thread/INFO] [APTweaks:DebugManager/]: Try to change log level to info
-[05Nov2021 22:33:14.336] [Server thread/INFO] [APTweaks:DebugManager/]: Change log level from INFO to INFO
-[05Nov2021 22:33:14.337] [Server thread/INFO] [APTweaks/]: Loading server config file adaptive_performance_tweaks-server.toml ...
-[05Nov2021 22:33:14.417] [Server thread/INFO] [APTweaks:SpawnerManager/]: Optimize Spawner with a limit of 1000 per world and 32 per chunk.
-[05Nov2021 22:33:14.417] [Server thread/INFO] [APTweaks:ItemEntityManager/]: Max number of Items allowed per world: 64 / per type: 16
-[05Nov2021 22:33:14.418] [Server thread/INFO] [APTweaks:ItemEntityManager/]: Enable clustering of items with a radius of 4 blocks.
-[05Nov2021 22:33:14.418] [Server thread/INFO] [APTweaks:ExperienceOrbEntityManager/]: Enable clustering of Experience Orbs with a radius of 4 blocks.
-[05Nov2021 22:33:14.419] [Server thread/INFO] [APTweaks:SpawnConfigManager/]: Clearing spawn rates calculation ...
-[05Nov2021 22:33:14.419] [Server thread/INFO] [APTweaks:SpawnConfigManager/]: Enable pre-calculate entity spawn rates for Players and World
-[05Nov2021 22:33:14.419] [Server thread/INFO] [APTweaks:SpawnConfigManager/]: Optimize Passive Mobs: true
-[05Nov2021 22:33:14.420] [Server thread/INFO] [APTweaks:SpawnConfigManager/]: Optimize Neutral Mobs: true
-[05Nov2021 22:33:14.420] [Server thread/INFO] [APTweaks:SpawnConfigManager/]: Optimize Hostile Mobs: true
-[05Nov2021 22:33:14.421] [Server thread/INFO] [APTweaks:SpawnConfigManager/]: Optimize Boss Mobs: true
-[05Nov2021 22:33:14.426] [Server thread/INFO] [APTweaks/]: ? Enable special mobs spawn rate control for Minecraft and 6 mobs with: {minecraft:the_nether:minecraft:wither_skeleton=10, minecraft:the_nether:minecraft:piglin_brute=20, minecraft:the_nether:minecraft:zombified_piglin=20, minecraft:the_nether:minecraft:piglin=20, minecraft:the_end:minecraft:enderman=40, minecraft:the_nether:minecraft:skeleton=20}
-[05Nov2021 22:33:14.428] [Server thread/INFO] [APTweaks/]: ? Enable passive mobs spawn rate control for Minecraft and 1 mobs with maxPerPlayer:2 and maxPerWorld:16 ...
-[05Nov2021 22:33:14.428] [Server thread/INFO] [APTweaks/]: ? Enable neutral mobs spawn rate control for Minecraft and 24 mobs with maxPerPlayer:4 and maxPerWorld:16 ...
-[05Nov2021 22:33:14.429] [Server thread/INFO] [APTweaks/]: ? Enable hostile mobs spawn rate control for Minecraft and 36 mobs with maxPerPlayer:4 and maxPerWorld:16 ...
-[05Nov2021 22:33:14.429] [Server thread/INFO] [APTweaks/]: ? Enable passive mobs spawn rate control for Minecraft (water) and 4 mobs with maxPerPlayer:2 and maxPerWorld:16 ...
-[05Nov2021 22:33:14.430] [Server thread/INFO] [APTweaks/]: ? Enable neutral mobs spawn rate control for Minecraft (water) and 2 mobs with maxPerPlayer:2 and maxPerWorld:16 ...
-[05Nov2021 22:33:14.434] [Server thread/INFO] [APTweaks/]: ? Enable hostile mobs spawn rate control for Artifacts and 1 mobs with maxPerPlayer:2 and maxPerWorld:12 ...
-[05Nov2021 22:33:14.444] [Server thread/INFO] [APTweaks/]: ? Enable passive mobs spawn rate control for Quark and 3 mobs with maxPerPlayer:2 and maxPerWorld:16 ...
-[05Nov2021 22:33:14.444] [Server thread/INFO] [APTweaks/]: ? Enable neutral mobs spawn rate control for Quark and 1 mobs with maxPerPlayer:2 and maxPerWorld:16 ...
-[05Nov2021 22:33:14.445] [Server thread/INFO] [APTweaks/]: ? Enable hostile mobs spawn rate control for Quark and 3 mobs with maxPerPlayer:2 and maxPerWorld:16 ...
-[05Nov2021 22:33:14.457] [Server thread/INFO] [APTweaks:SpawnConfigManager/]: Added 75 player spawn rules, 75 world spawn rules and 6 special spawn rules.
-[05Nov2021 22:33:14.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "apocalypse-now"
-[05Nov2021 22:33:14.979] [Server thread/INFO] [corgitaco.betterweather.BetterWeather/]: minecraft:overworld initialized with a weather event of: "betterweather-none".
-[05Nov2021 22:33:15.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Nov2021 22:33:16.137] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Nov2021 22:33:16.137] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Nov2021 22:33:16.194] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Nov2021 22:33:16.701] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1533 ms
-[05Nov2021 22:33:16.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.426s)! For help, type "help"
-[05Nov2021 22:33:16.858] [Server thread/INFO] [APTweaks:WorldViewManager/]: ViewDistance will be optimized between 2 and 16 with 8 as default
-[05Nov2021 22:33:16.859] [Server thread/INFO] [APTweaks:SpawnManager/]: Allow List: []
-[05Nov2021 22:33:16.859] [Server thread/INFO] [APTweaks:SpawnManager/]: Deny List: []
-[05Nov2021 22:33:16.860] [Server thread/INFO] [APTweaks:ServerManager/]: Game Difficulty is set to HARD
-[05Nov2021 22:33:16.860] [Server thread/INFO] [APTweaks:ServerManager/]: Max number of players is set to 20
-[05Nov2021 22:33:16.861] [Server thread/INFO] [APTweaks/]: Server load changed from NORMAL to VERY_LOW (avg. 0.0)
-[05Nov2021 22:33:16.861] [Server thread/INFO] [APTweaks:PlayerPositionManager/]: Player position will be expanded by factor x:16 y:4 z:16 and view area by factor 0.75.
-[05Nov2021 22:33:16.862] [Server thread/INFO] [APTweaks:GameRuleManager/]: Random Tick Speed will be optimized between 1 and 3
-[05Nov2021 22:33:16.862] [Server thread/INFO] [APTweaks:GameRuleManager/]: Max Entity Cramming will be optimized between 5 and 24
-[05Nov2021 22:33:18.864] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to VERY_LOW (avg. 4.63501)
-[05Nov2021 22:33:18.866] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from null to 3
-[05Nov2021 22:33:18.871] [Server thread/INFO] [APTweaks/]: World load for minecraft:the_nether changed from NORMAL to VERY_LOW (avg. 0.054237)
-[05Nov2021 22:33:18.872] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:the_nether from null to 3
-[05Nov2021 22:33:18.872] [Server thread/INFO] [APTweaks/]: World load for minecraft:the_end changed from NORMAL to VERY_LOW (avg. 0.037707)
-[05Nov2021 22:33:18.873] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:the_end from null to 3
-[05Nov2021 22:33:31.764] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
-[05Nov2021 22:33:34.985] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2f1afef
-[05Nov2021 22:33:35.052] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KZcheese[/0:0:0:0:0:0:0:1:2742] logged in with entity id 32 at (-174.12420009229746, 75.5, -824.0181382848235)
-[05Nov2021 22:33:35.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese joined the game
-[05Nov2021 22:33:35.359] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 3 to 5
-[05Nov2021 22:33:37.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[05Nov2021 22:33:37.672] [Server thread/WARN] [APTweaks:EntityManager/]: Unknown entity name for entity LeashKnotEntity['Leash Knot'/134, l='ServerLevel[apocalypse-now]', x=-152.50, y=64.50, z=-825.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/adaptive_performance_tweaks/issues/!
-[05Nov2021 22:33:37.900] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4d11e1c6
-[05Nov2021 22:33:38.193] [Server thread/WARN] [APTweaks:EntityManager/]: Unknown entity name for entity LeashKnotEntity['Leash Knot'/181, l='ServerLevel[apocalypse-now]', x=-196.50, y=73.50, z=-819.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/adaptive_performance_tweaks/issues/!
-[05Nov2021 22:33:38.195] [Server thread/WARN] [APTweaks:EntityManager/]: Unknown entity name for entity LeashKnotEntity['Leash Knot'/182, l='ServerLevel[apocalypse-now]', x=-199.50, y=74.50, z=-827.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/adaptive_performance_tweaks/issues/!
-[05Nov2021 22:33:38.198] [Server thread/WARN] [APTweaks:EntityManager/]: Unknown entity name for entity LeashKnotEntity['Leash Knot'/183, l='ServerLevel[apocalypse-now]', x=-197.50, y=73.50, z=-827.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/adaptive_performance_tweaks/issues/!
-[05Nov2021 22:33:38.352] [Server thread/WARN] [APTweaks:EntityManager/]: Unknown entity name for entity LeashKnotEntity['Leash Knot'/194, l='ServerLevel[apocalypse-now]', x=-187.50, y=71.50, z=-854.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/adaptive_performance_tweaks/issues/!
-[05Nov2021 22:33:39.198] [Server thread/WARN] [APTweaks:EntityManager/]: Unknown entity name for entity LeashKnotEntity['Leash Knot'/330, l='ServerLevel[apocalypse-now]', x=-115.50, y=63.50, z=-823.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/adaptive_performance_tweaks/issues/!
-[05Nov2021 22:33:39.461] [Server thread/WARN] [APTweaks:EntityManager/]: Unknown entity name for entity LeashKnotEntity['Leash Knot'/420, l='ServerLevel[apocalypse-now]', x=-124.50, y=64.50, z=-777.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/adaptive_performance_tweaks/issues/!
-[05Nov2021 22:33:44.913] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to NORMAL (avg. 37.347702)
-[05Nov2021 22:33:50.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to LOW (avg. 26.917489)
-[05Nov2021 22:33:56.913] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 5 to 6
-[05Nov2021 22:34:02.915] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 6 to 7
-[05Nov2021 22:34:08.913] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 7 to 8
-[05Nov2021 22:34:14.915] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 8 to 9
-[05Nov2021 22:34:20.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to NORMAL (avg. 35.567582)
-[05Nov2021 22:34:26.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to LOW (avg. 34.128855)
-[05Nov2021 22:34:32.914] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 9 to 10
-[05Nov2021 22:34:38.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to NORMAL (avg. 35.911058)
-[05Nov2021 22:34:44.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to LOW (avg. 32.593437)
-[05Nov2021 22:34:50.915] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 10 to 11
-[05Nov2021 22:34:56.913] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 11 to 12
-[05Nov2021 22:35:02.913] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 12 to 13
-[05Nov2021 22:35:08.914] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 13 to 14
-[05Nov2021 22:35:14.914] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 14 to 15
-[05Nov2021 22:35:20.913] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 15 to 16
-[05Nov2021 22:35:38.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to NORMAL (avg. 36.735632)
-[05Nov2021 22:35:44.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to LOW (avg. 33.918956)
-[05Nov2021 22:36:00.502] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[05Nov2021 22:36:04.370] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2cfab7d7
-[05Nov2021 22:36:04.402] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:2757] logged in with entity id 249318 at (27.81678034489765, 63.0, -721.4009041038855)
-[05Nov2021 22:36:04.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
-[05Nov2021 22:36:04.536] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 16 to 15
-[05Nov2021 22:36:08.916] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to NORMAL (avg. 40.172459)
-[05Nov2021 22:36:14.913] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to MEDIUM (avg. 41.57975)
-[05Nov2021 22:36:50.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from MEDIUM to NORMAL (avg. 39.12878)
-[05Nov2021 22:37:59.407] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/498336, l='ServerLevel[apocalypse-now]', x=-159.52, y=71.06, z=-892.88]
-[05Nov2021 22:37:59.408] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/498336, l='ServerLevel[apocalypse-now]', x=-159.52, y=71.06, z=-892.88]
-[05Nov2021 22:37:59.408] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/498337, l='ServerLevel[apocalypse-now]', x=-159.52, y=71.06, z=-892.88]
-[05Nov2021 22:37:59.409] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/498337, l='ServerLevel[apocalypse-now]', x=-159.52, y=71.06, z=-892.88]
-[05Nov2021 22:38:16.309] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
-[05Nov2021 22:38:16.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
-[05Nov2021 22:38:20.543] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[05Nov2021 22:38:23.875] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@25b55d14
-[05Nov2021 22:38:23.917] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:2770] logged in with entity id 522634 at (-192.3717922632344, 69.05220861900207, -892.6759688621052)
-[05Nov2021 22:38:23.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
-[05Nov2021 22:38:24.033] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 15 to 14
-[05Nov2021 22:39:17.055] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/563368, l='ServerLevel[apocalypse-now]', x=-253.50, y=72.06, z=-941.69]
-[05Nov2021 22:39:24.901] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/570231, l='ServerLevel[apocalypse-now]', x=-253.50, y=72.06, z=-941.69]
-[05Nov2021 22:39:26.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to MEDIUM (avg. 41.268719)
-[05Nov2021 22:39:32.900] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/577344, l='ServerLevel[apocalypse-now]', x=-255.50, y=72.06, z=-941.69]
-[05Nov2021 22:39:32.901] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/577345, l='ServerLevel[apocalypse-now]', x=-255.50, y=72.06, z=-941.69]
-[05Nov2021 22:39:32.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from MEDIUM to NORMAL (avg. 39.057646)
-[05Nov2021 22:39:50.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KZcheese: Set own game mode to Survival Mode]
-[05Nov2021 22:40:02.915] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to MEDIUM (avg. 41.437268)
-[05Nov2021 22:40:44.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from MEDIUM to NORMAL (avg. 40.967096)
-[05Nov2021 22:40:50.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to HIGH (avg. 47.298369)
-[05Nov2021 22:41:02.913] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from HIGH to NORMAL (avg. 40.148876)
-[05Nov2021 22:41:08.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to MEDIUM (avg. 42.38449)
-[05Nov2021 22:41:14.982] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from MEDIUM to HIGH (avg. 46.2779)
-[05Nov2021 22:41:20.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from HIGH to MEDIUM (avg. 42.731363)
-[05Nov2021 22:41:32.914] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from MEDIUM to NORMAL (avg. 40.652924)
-[05Nov2021 22:41:44.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[05Nov2021 22:41:48.513] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to VERY_HIGH (avg. 81.788541)
-[05Nov2021 22:41:58.534] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/918886, l='ServerLevel[apocalypse-now]', x=-265.82, y=72.06, z=-952.37]
-[05Nov2021 22:41:59.811] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/919845, l='ServerLevel[apocalypse-now]', x=-265.82, y=72.06, z=-952.37]
-[05Nov2021 22:42:00.897] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/920712, l='ServerLevel[apocalypse-now]', x=-265.82, y=72.06, z=-952.37]
-[05Nov2021 22:42:02.808] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/922487, l='ServerLevel[apocalypse-now]', x=-265.82, y=72.06, z=-952.37]
-[05Nov2021 22:42:03.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3760ms or 75 ticks behind
-[05Nov2021 22:42:08.663] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_HIGH to MEDIUM (avg. 42.913056)
-[05Nov2021 22:42:10.364] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
-[05Nov2021 22:42:10.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
-[05Nov2021 22:42:14.665] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from MEDIUM to NORMAL (avg. 40.963545)
-[05Nov2021 22:42:32.665] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to LOW (avg. 33.382371)
-[05Nov2021 22:42:38.665] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 14 to 15
-[05Nov2021 22:42:39.424] [Thread-1/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: com.electronwill.nightconfig.core.io.WritingException: An I/O error occured
-[05Nov2021 22:42:39.425] [Thread-1/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:222)
-[05Nov2021 22:42:39.427] [Thread-1/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
-[05Nov2021 22:42:39.428] [Thread-1/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
-[05Nov2021 22:42:39.429] [Thread-1/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
-[05Nov2021 22:42:39.430] [Thread-1/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:145)
-[05Nov2021 22:42:39.430] [Thread-1/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:181)
-[05Nov2021 22:42:39.431] [Thread-1/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.nio.file.FileSystemException: C:\Users\kevin\Documents\Github\MinceCart-Master\config\quark-common.toml: The process cannot access the file because it is being used by another process.
-
-[05Nov2021 22:42:39.432] [Thread-1/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
-[05Nov2021 22:42:39.433] [Thread-1/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
-[05Nov2021 22:42:39.433] [Thread-1/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
-[05Nov2021 22:42:39.434] [Thread-1/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(Unknown Source)
-[05Nov2021 22:42:39.435] [Thread-1/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at java.nio.file.Files.newByteChannel(Unknown Source)
-[05Nov2021 22:42:39.436] [Thread-1/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at java.nio.file.Files.newByteChannel(Unknown Source)
-[05Nov2021 22:42:39.437] [Thread-1/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at java.nio.file.spi.FileSystemProvider.newInputStream(Unknown Source)
-[05Nov2021 22:42:39.437] [Thread-1/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at java.nio.file.Files.newInputStream(Unknown Source)
-[05Nov2021 22:42:39.437] [Thread-1/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:218)
-[05Nov2021 22:42:39.438] [Thread-1/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 5 more
-[05Nov2021 22:42:44.665] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to NORMAL (avg. 35.63941)
-[05Nov2021 22:42:45.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[05Nov2021 22:42:45.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[05Nov2021 22:42:45.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[05Nov2021 22:42:45.906] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KZcheese lost connection: Internal Exception: java.lang.StackOverflowError
-[05Nov2021 22:42:45.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese left the game
-[05Nov2021 22:42:45.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[05Nov2021 22:42:45.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:overworld
-[05Nov2021 22:42:48.282] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
-[05Nov2021 22:42:48.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_nether
-[05Nov2021 22:42:48.288] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05Nov2021 22:42:48.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_end
-[05Nov2021 22:42:48.293] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05Nov2021 22:42:48.365] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
-[05Nov2021 22:42:48.422] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05Nov2021 22:42:48.424] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Nov2021 00:00:32.440] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167693237, l='ServerLevel[apocalypse-now]', x=-2065.68, y=148.00, z=-2251.30]
+[27Nov2021 00:00:37.191] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167693917, l='ServerLevel[apocalypse-now]', x=-2067.66, y=148.00, z=-2253.09]
+[27Nov2021 00:00:43.490] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167694746, l='ServerLevel[apocalypse-now]', x=-2066.25, y=148.00, z=-2252.28]
+[27Nov2021 00:00:43.491] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167694747, l='ServerLevel[apocalypse-now]', x=-2066.25, y=148.00, z=-2252.28]
+[27Nov2021 00:01:17.091] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167699888, l='ServerLevel[apocalypse-now]', x=-2066.68, y=148.00, z=-2252.32]
+[27Nov2021 00:01:17.093] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167699889, l='ServerLevel[apocalypse-now]', x=-2066.68, y=148.00, z=-2252.32]
+[27Nov2021 00:01:22.890] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167700671, l='ServerLevel[apocalypse-now]', x=-2068.85, y=148.00, z=-2253.25]
+[27Nov2021 00:01:22.891] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167700672, l='ServerLevel[apocalypse-now]', x=-2068.85, y=148.00, z=-2253.25]
+[27Nov2021 00:01:22.893] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167700673, l='ServerLevel[apocalypse-now]', x=-2068.85, y=148.00, z=-2253.25]
+[27Nov2021 00:01:26.820] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167701314, l='ServerLevel[apocalypse-now]', x=-2071.50, y=148.50, z=-2259.50]
+[27Nov2021 00:01:26.821] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167701315, l='ServerLevel[apocalypse-now]', x=-2071.50, y=148.50, z=-2259.50]
+[27Nov2021 00:01:26.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167701316, l='ServerLevel[apocalypse-now]', x=-2071.50, y=148.50, z=-2259.50]
+[27Nov2021 00:01:46.038] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167703754, l='ServerLevel[apocalypse-now]', x=-2065.63, y=148.00, z=-2251.36]
+[27Nov2021 00:01:46.039] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167703755, l='ServerLevel[apocalypse-now]', x=-2065.63, y=148.00, z=-2251.36]
+[27Nov2021 00:02:08.641] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Nov2021 00:02:38.613] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Nov2021 00:02:57.346] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167714464, l='ServerLevel[apocalypse-now]', x=-2064.05, y=148.06, z=-2248.87]
+[27Nov2021 00:02:57.347] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167714465, l='ServerLevel[apocalypse-now]', x=-2064.05, y=148.06, z=-2248.87]
+[27Nov2021 00:03:18.258] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167717684, l='ServerLevel[apocalypse-now]', x=-2064.97, y=148.00, z=-2249.64]
+[27Nov2021 00:03:47.346] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167722199, l='ServerLevel[apocalypse-now]', x=-2063.98, y=148.06, z=-2249.23]
+[27Nov2021 00:03:47.347] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167722200, l='ServerLevel[apocalypse-now]', x=-2063.98, y=148.06, z=-2249.23]
+[27Nov2021 00:03:47.348] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167722201, l='ServerLevel[apocalypse-now]', x=-2063.98, y=148.06, z=-2249.23]
+[27Nov2021 00:03:53.863] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167723260, l='ServerLevel[apocalypse-now]', x=-2043.50, y=148.50, z=-2247.50]
+[27Nov2021 00:03:53.865] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167723261, l='ServerLevel[apocalypse-now]', x=-2043.50, y=148.50, z=-2247.50]
+[27Nov2021 00:03:53.866] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167723262, l='ServerLevel[apocalypse-now]', x=-2043.50, y=148.50, z=-2247.50]
+[27Nov2021 00:04:14.088] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167726122, l='ServerLevel[apocalypse-now]', x=-2062.27, y=148.00, z=-2249.33]
+[27Nov2021 00:04:43.661] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167730511, l='ServerLevel[apocalypse-now]', x=-2064.78, y=148.00, z=-2249.28]
+[27Nov2021 00:04:43.663] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167730512, l='ServerLevel[apocalypse-now]', x=-2064.78, y=148.00, z=-2249.28]
+[27Nov2021 00:05:06.490] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167733867, l='ServerLevel[apocalypse-now]', x=-2064.41, y=148.00, z=-2249.30]
+[27Nov2021 00:05:06.491] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167733868, l='ServerLevel[apocalypse-now]', x=-2064.41, y=148.00, z=-2249.30]
+[27Nov2021 00:05:19.692] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167735873, l='ServerLevel[apocalypse-now]', x=-2063.81, y=148.06, z=-2248.78]
+[27Nov2021 00:05:19.693] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167735874, l='ServerLevel[apocalypse-now]', x=-2063.81, y=148.06, z=-2248.78]
+[27Nov2021 00:05:19.694] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167735875, l='ServerLevel[apocalypse-now]', x=-2063.81, y=148.06, z=-2248.78]
+[27Nov2021 00:05:36.189] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167738484, l='ServerLevel[apocalypse-now]', x=-2064.93, y=148.00, z=-2249.64]
+[27Nov2021 00:06:45.793] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167747161, l='ServerLevel[apocalypse-now]', x=-2059.38, y=152.01, z=-2236.87]
+[27Nov2021 00:06:58.438] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167748545, l='ServerLevel[apocalypse-now]', x=-2061.50, y=148.00, z=-2235.61]
+[27Nov2021 00:06:58.439] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167748546, l='ServerLevel[apocalypse-now]', x=-2061.50, y=148.00, z=-2235.61]
+[27Nov2021 00:06:58.441] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167748547, l='ServerLevel[apocalypse-now]', x=-2061.50, y=148.00, z=-2235.61]
+[27Nov2021 00:06:58.442] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167748548, l='ServerLevel[apocalypse-now]', x=-2061.50, y=148.00, z=-2235.61]
+[27Nov2021 00:07:31.539] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167752294, l='ServerLevel[apocalypse-now]', x=-2059.25, y=148.00, z=-2234.25]
+[27Nov2021 00:07:31.540] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167752295, l='ServerLevel[apocalypse-now]', x=-2059.25, y=148.00, z=-2234.25]
+[27Nov2021 00:07:31.541] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167752296, l='ServerLevel[apocalypse-now]', x=-2059.25, y=148.00, z=-2234.25]
+[27Nov2021 00:07:38.066] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167753106, l='ServerLevel[apocalypse-now]', x=-2060.75, y=148.38, z=-2234.29]
+[27Nov2021 00:07:38.066] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167753107, l='ServerLevel[apocalypse-now]', x=-2060.75, y=148.38, z=-2234.29]
+[27Nov2021 00:07:38.067] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167753108, l='ServerLevel[apocalypse-now]', x=-2060.75, y=148.38, z=-2234.29]
+[27Nov2021 00:07:38.068] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167753109, l='ServerLevel[apocalypse-now]', x=-2060.75, y=148.38, z=-2234.29]
+[27Nov2021 00:07:38.069] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/167753110, l='ServerLevel[apocalypse-now]', x=-2060.75, y=148.38, z=-2234.29]
+[27Nov2021 00:15:28.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.951636)
+[27Nov2021 00:15:40.425] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.078139)
+[27Nov2021 00:15:46.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.327417)
+[27Nov2021 00:15:58.425] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.20445)
+[27Nov2021 00:16:04.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.92165)
+[27Nov2021 00:16:10.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.222494)
+[27Nov2021 00:16:16.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.778809)
+[27Nov2021 00:16:40.425] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.003141)
+[27Nov2021 00:16:46.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.520357)
+[27Nov2021 00:18:34.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.060052)
+[27Nov2021 00:18:38.672] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168066598, l='ServerLevel[apocalypse-now]', x=-2055.50, y=148.06, z=-2251.04]
+[27Nov2021 00:18:38.672] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168066599, l='ServerLevel[apocalypse-now]', x=-2055.50, y=148.06, z=-2251.04]
+[27Nov2021 00:18:38.673] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168066600, l='ServerLevel[apocalypse-now]', x=-2055.50, y=148.06, z=-2251.04]
+[27Nov2021 00:18:40.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.465127)
+[27Nov2021 00:18:53.238] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168068990, l='ServerLevel[apocalypse-now]', x=-2056.46, y=148.06, z=-2251.23]
+[27Nov2021 00:18:53.239] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168068991, l='ServerLevel[apocalypse-now]', x=-2056.46, y=148.06, z=-2251.23]
+[27Nov2021 00:18:53.240] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168068992, l='ServerLevel[apocalypse-now]', x=-2056.46, y=148.06, z=-2251.23]
+[27Nov2021 00:19:04.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.195787)
+[27Nov2021 00:19:10.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.947501)
+[27Nov2021 00:19:11.213] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168071871, l='ServerLevel[apocalypse-now]', x=-2051.54, y=148.06, z=-2244.30]
+[27Nov2021 00:19:16.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.130298)
+[27Nov2021 00:19:22.425] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.557384)
+[27Nov2021 00:19:46.937] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168078300, l='ServerLevel[apocalypse-now]', x=-2043.25, y=148.00, z=-2251.05]
+[27Nov2021 00:19:46.938] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168078301, l='ServerLevel[apocalypse-now]', x=-2043.25, y=148.00, z=-2251.05]
+[27Nov2021 00:19:52.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.01224)
+[27Nov2021 00:19:58.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.945239)
+[27Nov2021 00:20:09.669] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Nov2021 00:20:37.586] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168086945, l='ServerLevel[apocalypse-now]', x=-2055.55, y=148.06, z=-2251.45]
+[27Nov2021 00:20:37.587] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168086946, l='ServerLevel[apocalypse-now]', x=-2055.55, y=148.06, z=-2251.45]
+[27Nov2021 00:20:46.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.321188)
+[27Nov2021 00:21:04.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.655731)
+[27Nov2021 00:21:13.312] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Nov2021 00:21:28.425] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.004908)
+[27Nov2021 00:21:46.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.769812)
+[27Nov2021 00:21:47.358] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168097805, l='ServerLevel[apocalypse-now]', x=-2047.50, y=148.50, z=-2235.50]
+[27Nov2021 00:21:47.360] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168097806, l='ServerLevel[apocalypse-now]', x=-2047.50, y=148.50, z=-2235.50]
+[27Nov2021 00:21:47.361] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168097807, l='ServerLevel[apocalypse-now]', x=-2047.50, y=148.50, z=-2235.50]
+[27Nov2021 00:21:58.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.099694)
+[27Nov2021 00:22:04.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.502971)
+[27Nov2021 00:22:05.066] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168101017, l='ServerLevel[apocalypse-now]', x=-2043.92, y=148.00, z=-2251.49]
+[27Nov2021 00:22:05.066] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168101018, l='ServerLevel[apocalypse-now]', x=-2043.92, y=148.00, z=-2251.49]
+[27Nov2021 00:22:23.786] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168104402, l='ServerLevel[apocalypse-now]', x=-2042.49, y=148.06, z=-2244.64]
+[27Nov2021 00:22:23.788] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168104403, l='ServerLevel[apocalypse-now]', x=-2042.49, y=148.06, z=-2244.64]
+[27Nov2021 00:22:30.086] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168105505, l='ServerLevel[apocalypse-now]', x=-2043.38, y=148.00, z=-2252.02]
+[27Nov2021 00:22:30.087] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168105506, l='ServerLevel[apocalypse-now]', x=-2043.38, y=148.00, z=-2252.02]
+[27Nov2021 00:22:34.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.274364)
+[27Nov2021 00:22:40.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.943698)
+[27Nov2021 00:22:45.663] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168108146, l='ServerLevel[apocalypse-now]', x=-2043.49, y=148.00, z=-2251.12]
+[27Nov2021 00:22:45.663] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168108147, l='ServerLevel[apocalypse-now]', x=-2043.49, y=148.00, z=-2251.12]
+[27Nov2021 00:22:46.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.010038)
+[27Nov2021 00:23:04.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.672835)
+[27Nov2021 00:23:06.715] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Nov2021 00:23:10.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.458797)
+[27Nov2021 00:23:40.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.982281)
+[27Nov2021 00:23:52.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.045467)
+[27Nov2021 00:24:04.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.895295)
+[27Nov2021 00:24:34.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 16.427738)
+[27Nov2021 00:29:51.753] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168323516, l='ServerLevel[apocalypse-now]', x=-1732.30, y=63.00, z=-1835.30]
+[27Nov2021 00:30:07.148] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168333786, l='ServerLevel[apocalypse-now]', x=-1751.31, y=62.50, z=-1867.54]
+[27Nov2021 00:30:11.695] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168336880, l='ServerLevel[apocalypse-now]', x=-1748.83, y=62.49, z=-1868.27]
+[27Nov2021 00:30:25.745] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168345311, l='ServerLevel[apocalypse-now]', x=-1749.33, y=62.31, z=-1878.71]
+[27Nov2021 00:30:25.747] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168345312, l='ServerLevel[apocalypse-now]', x=-1749.33, y=62.31, z=-1878.71]
+[27Nov2021 00:30:27.152] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168346229, l='ServerLevel[apocalypse-now]', x=-1749.13, y=62.49, z=-1878.83]
+[27Nov2021 00:30:27.153] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168346230, l='ServerLevel[apocalypse-now]', x=-1749.13, y=62.49, z=-1878.83]
+[27Nov2021 00:30:43.550] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168356617, l='ServerLevel[apocalypse-now]', x=-1746.58, y=62.67, z=-1867.31]
+[27Nov2021 00:34:27.642] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/168259120, l='ServerLevel[apocalypse-now]', x=-1817.47, y=16.00, z=-1738.35] died, message: 'Villager hit the ground too hard'
+[27Nov2021 00:35:44.296] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168554207, l='ServerLevel[apocalypse-now]', x=-1789.28, y=62.78, z=-1864.66]
+[27Nov2021 00:36:02.250] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168565425, l='ServerLevel[apocalypse-now]', x=-1773.61, y=62.50, z=-1928.41]
+[27Nov2021 00:36:06.945] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168568075, l='ServerLevel[apocalypse-now]', x=-1781.40, y=62.49, z=-1938.16]
+[27Nov2021 00:36:12.547] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168571373, l='ServerLevel[apocalypse-now]', x=-1769.74, y=62.52, z=-1908.94]
+[27Nov2021 00:36:20.246] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168575920, l='ServerLevel[apocalypse-now]', x=-1766.23, y=62.45, z=-1908.31]
+[27Nov2021 00:36:20.248] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168575921, l='ServerLevel[apocalypse-now]', x=-1766.23, y=62.45, z=-1908.31]
+[27Nov2021 00:37:19.647] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168614411, l='ServerLevel[apocalypse-now]', x=-1754.60, y=62.52, z=-1879.36]
+[27Nov2021 00:37:38.995] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168626923, l='ServerLevel[apocalypse-now]', x=-1745.38, y=62.53, z=-1885.74]
+[27Nov2021 00:37:56.994] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168638130, l='ServerLevel[apocalypse-now]', x=-1762.82, y=62.51, z=-1925.82]
+[27Nov2021 00:37:58.594] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168639100, l='ServerLevel[apocalypse-now]', x=-1763.98, y=61.47, z=-1923.21]
+[27Nov2021 00:38:32.346] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168660184, l='ServerLevel[apocalypse-now]', x=-1716.25, y=62.53, z=-1936.75]
+[27Nov2021 00:38:55.043] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168674618, l='ServerLevel[apocalypse-now]', x=-1685.88, y=64.00, z=-1898.51]
+[27Nov2021 00:39:20.495] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168689941, l='ServerLevel[apocalypse-now]', x=-1727.42, y=62.50, z=-1930.48]
+[27Nov2021 00:39:34.146] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168698287, l='ServerLevel[apocalypse-now]', x=-1692.46, y=66.00, z=-1890.45]
+[27Nov2021 00:44:27.845] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168890121, l='ServerLevel[apocalypse-now]', x=-1708.91, y=64.00, z=-1895.67]
+[27Nov2021 00:45:16.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168922091, l='ServerLevel[apocalypse-now]', x=-1668.30, y=66.00, z=-1910.70]
+[27Nov2021 00:45:23.971] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168927039, l='ServerLevel[apocalypse-now]', x=-1678.63, y=65.00, z=-1892.59]
+[27Nov2021 00:47:01.544] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168990445, l='ServerLevel[apocalypse-now]', x=-1680.25, y=64.94, z=-1893.78]
+[27Nov2021 00:47:01.544] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/168990446, l='ServerLevel[apocalypse-now]', x=-1680.25, y=64.94, z=-1893.78]
+[27Nov2021 00:47:40.592] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169015722, l='ServerLevel[apocalypse-now]', x=-1652.12, y=65.00, z=-1905.49]
+[27Nov2021 00:48:13.546] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169036136, l='ServerLevel[apocalypse-now]', x=-1702.22, y=62.52, z=-1935.43]
+[27Nov2021 00:48:28.820] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169045124, l='ServerLevel[apocalypse-now]', x=-1683.70, y=64.00, z=-1922.30]
+[27Nov2021 00:48:50.619] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169058385, l='ServerLevel[apocalypse-now]', x=-1664.30, y=65.00, z=-1914.70]
+[27Nov2021 00:49:13.464] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[27Nov2021 00:51:05.938] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169143534, l='ServerLevel[apocalypse-now]', x=-1591.99, y=64.00, z=-1927.40]
+[27Nov2021 00:51:15.689] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169149852, l='ServerLevel[apocalypse-now]', x=-1605.18, y=64.00, z=-1923.22]
+[27Nov2021 00:51:24.148] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169155401, l='ServerLevel[apocalypse-now]', x=-1600.55, y=64.00, z=-1922.50]
+[27Nov2021 00:51:32.941] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169160867, l='ServerLevel[apocalypse-now]', x=-1585.30, y=68.00, z=-1914.11]
+[27Nov2021 00:51:40.440] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169165510, l='ServerLevel[apocalypse-now]', x=-1599.26, y=64.00, z=-1923.22]
+[27Nov2021 00:52:51.391] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169210252, l='ServerLevel[apocalypse-now]', x=-1637.49, y=75.00, z=-1853.52]
+[27Nov2021 00:52:52.642] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169211024, l='ServerLevel[apocalypse-now]', x=-1637.75, y=75.00, z=-1855.75]
+[27Nov2021 00:52:52.644] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169211025, l='ServerLevel[apocalypse-now]', x=-1637.75, y=75.00, z=-1855.75]
+[27Nov2021 00:52:54.145] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169211993, l='ServerLevel[apocalypse-now]', x=-1638.50, y=75.75, z=-1849.70]
+[27Nov2021 00:53:07.094] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169220224, l='ServerLevel[apocalypse-now]', x=-1643.50, y=78.00, z=-1870.02]
+[27Nov2021 00:53:08.395] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169221054, l='ServerLevel[apocalypse-now]', x=-1642.73, y=78.00, z=-1871.81]
+[27Nov2021 00:53:08.395] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/169221055, l='ServerLevel[apocalypse-now]', x=-1642.73, y=78.00, z=-1871.81]
+[27Nov2021 01:03:16.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.815345)
+[27Nov2021 01:03:40.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.356491)
+[27Nov2021 01:08:52.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.920317)
+[27Nov2021 01:08:58.425] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.428675)
+[27Nov2021 01:09:04.425] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.938547)
+[27Nov2021 01:09:16.425] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.656734)
+[27Nov2021 01:09:34.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.854305)
+[27Nov2021 01:09:40.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.367192)
+[27Nov2021 01:10:10.425] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.951695)
+[27Nov2021 01:10:16.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 16.652145)
+[27Nov2021 01:11:58.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 14.521924)
+[27Nov2021 01:12:22.425] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from VERY_LOW to LOW (avg. 15.120576)
+[27Nov2021 01:13:28.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to NORMAL (avg. 36.080788)
+[27Nov2021 01:13:40.423] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to MEDIUM (avg. 41.743851)
+[27Nov2021 01:13:46.425] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from MEDIUM to NORMAL (avg. 40.421457)
+[27Nov2021 01:14:28.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to MEDIUM (avg. 41.018576)
+[27Nov2021 01:14:34.432] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from MEDIUM to NORMAL (avg. 40.597444)
+[27Nov2021 01:15:34.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from NORMAL to MEDIUM (avg. 41.212568)
+[27Nov2021 01:16:14.515] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[27Nov2021 01:16:14.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[27Nov2021 01:16:16.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from MEDIUM to LOW (avg. 32.257713)
+[27Nov2021 01:16:16.424] [Server thread/INFO] [APTweaks:WorldViewManager/]: Changing world view distance for minecraft:overworld from 16 to 3
+[27Nov2021 01:16:22.424] [Server thread/INFO] [APTweaks/]: World load for minecraft:overworld changed from LOW to VERY_LOW (avg. 2.237289)
+[27Nov2021 12:47:33.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[27Nov2021 12:47:34.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[27Nov2021 12:47:35.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[27Nov2021 12:47:36.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Nov2021 12:47:36.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Nov2021 12:47:36.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Nov2021 12:47:36.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:overworld
+[27Nov2021 12:47:36.975] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
+[27Nov2021 12:47:36.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_nether
+[27Nov2021 12:47:37.029] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Nov2021 12:47:37.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_end
+[27Nov2021 12:47:37.035] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Nov2021 12:47:37.108] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
+[27Nov2021 12:47:38.957] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Nov2021 12:47:39.027] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
