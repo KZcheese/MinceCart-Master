@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2021-12-15 01:48:13 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
@@ -1289,6 +1295,12 @@
       "has_the_recipe": "2021-08-11 00:17:54 -0400"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2021-12-15 01:36:50 -0500"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
@@ -2814,6 +2826,12 @@
     },
     "done": true
   },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2021-12-01 22:32:56 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_scoria_cobblestone_stairs_from_dark_scoria_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
@@ -3240,6 +3258,12 @@
     },
     "done": true
   },
+  "create:wrench": {
+    "criteria": {
+      "0": "2021-11-29 00:03:26 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
@@ -3553,7 +3577,9 @@
       "minecraft:blaze": "2021-11-09 00:07:58 -0500",
       "minecraft:skeleton": "2021-10-05 01:30:26 -0400",
       "minecraft:ravager": "2021-10-31 00:10:59 -0400",
+      "minecraft:ghast": "2022-01-01 21:15:50 -0500",
       "minecraft:vindicator": "2021-11-12 23:26:18 -0500",
+      "minecraft:magma_cube": "2021-12-15 01:37:50 -0500",
       "minecraft:spider": "2021-10-04 00:14:57 -0400",
       "minecraft:piglin_brute": "2021-11-13 01:48:23 -0500",
       "minecraft:creeper": "2021-08-14 21:43:25 -0400",
@@ -3562,8 +3588,10 @@
       "minecraft:witch": "2021-10-31 00:09:41 -0400",
       "minecraft:wither_skeleton": "2021-11-09 00:08:47 -0500",
       "minecraft:cave_spider": "2021-11-21 01:10:45 -0500",
+      "minecraft:piglin": "2021-12-15 01:19:49 -0500",
       "minecraft:enderman": "2021-09-26 00:14:41 -0400",
       "minecraft:silverfish": "2021-11-13 00:48:05 -0500",
+      "minecraft:vex": "2021-12-17 23:40:25 -0500",
       "minecraft:zombie": "2021-08-14 21:41:38 -0400",
       "minecraft:drowned": "2021-10-23 00:04:48 -0400",
       "minecraft:zombie_villager": "2021-10-05 01:35:24 -0400"
@@ -5168,15 +5196,24 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2021-11-30 14:32:29 -0500",
       "onion": "2021-10-31 00:17:02 -0400",
+      "sweet_berries": "2021-12-07 00:04:49 -0500",
       "tomato": "2021-10-05 00:04:53 -0400",
       "rice": "2021-09-11 22:21:33 -0400",
       "beetroot": "2021-10-04 22:12:01 -0400",
       "sugar_cane": "2021-09-11 23:20:43 -0400",
       "potato": "2021-09-24 23:35:58 -0400",
-      "wheat": "2021-10-05 13:49:36 -0400"
+      "wheat": "2021-10-05 13:49:36 -0400",
+      "carrot": "2021-11-30 14:42:12 -0500"
     },
     "done": false
+  },
+  "create:tunnel": {
+    "criteria": {
+      "0": "2021-12-05 01:01:40 -0500"
+    },
+    "done": true
   },
   "create:recipes/create.palettes/scoria_bricks_wall": {
     "criteria": {
@@ -6012,6 +6049,12 @@
     },
     "done": true
   },
+  "create:overstress_flywheel": {
+    "criteria": {
+      "0": "2021-12-01 22:33:54 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
@@ -6285,6 +6328,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-12-17 23:05:44 -0500"
     },
     "done": true
   },
@@ -6699,6 +6748,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
+    },
+    "done": true
+  },
+  "create:belt_funnel": {
+    "criteria": {
+      "0": "2021-12-07 00:48:13 -0500"
     },
     "done": true
   },
@@ -7407,6 +7462,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2021-08-14 21:48:32 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2021-12-14 14:11:09 -0500"
     },
     "done": true
   },
@@ -8414,6 +8475,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2021-12-19 21:31:38 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_wall": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:54 -0400"
@@ -8675,6 +8742,12 @@
   "create:recipes/create.palettes/polished_scoria_stairs_from_polished_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:56 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2021-12-02 00:29:11 -0500"
     },
     "done": true
   },
@@ -9818,6 +9891,12 @@
     },
     "done": true
   },
+  "create:millstone": {
+    "criteria": {
+      "0": "2021-12-02 00:16:06 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab_from_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
@@ -9875,14 +9954,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-08-11 00:19:50 -0400",
+      "minecraft:snowy_mountains": "2021-12-14 00:43:08 -0500",
       "minecraft:forest": "2021-08-11 00:18:13 -0400",
       "minecraft:mountains": "2021-10-30 00:54:22 -0400",
       "minecraft:taiga": "2021-10-30 00:53:58 -0400",
       "minecraft:desert_hills": "2021-09-11 23:47:40 -0400",
       "minecraft:giant_tree_taiga": "2021-11-13 01:23:39 -0500",
       "minecraft:deep_cold_ocean": "2021-08-11 00:20:21 -0400",
+      "minecraft:snowy_tundra": "2021-12-14 00:41:21 -0500",
+      "minecraft:taiga_hills": "2021-12-14 14:20:19 -0500",
       "minecraft:desert": "2021-09-11 23:42:40 -0400",
+      "minecraft:frozen_river": "2021-12-14 00:40:25 -0500",
       "minecraft:deep_frozen_ocean": "2021-09-11 22:01:39 -0400",
+      "minecraft:birch_forest": "2021-12-14 00:20:29 -0500",
       "minecraft:warm_ocean": "2021-09-11 21:57:23 -0400",
       "minecraft:deep_lukewarm_ocean": "2021-09-11 21:56:04 -0400",
       "minecraft:savanna_plateau": "2021-10-30 01:23:18 -0400",
@@ -9890,9 +9974,12 @@
       "minecraft:dark_forest": "2021-10-30 15:22:01 -0400",
       "minecraft:river": "2021-08-11 00:18:40 -0400",
       "minecraft:lukewarm_ocean": "2021-09-11 21:57:11 -0400",
+      "minecraft:birch_forest_hills": "2021-12-14 00:20:02 -0500",
       "minecraft:wooded_mountains": "2021-11-23 23:29:32 -0500",
       "minecraft:wooded_hills": "2021-11-13 01:45:26 -0500",
       "minecraft:stone_shore": "2021-10-30 00:54:39 -0400",
+      "minecraft:giant_tree_taiga_hills": "2021-12-17 23:11:09 -0500",
+      "minecraft:swamp": "2021-12-11 00:42:41 -0500",
       "minecraft:savanna": "2021-09-22 22:17:21 -0400",
       "minecraft:plains": "2021-09-11 23:48:30 -0400"
     },
@@ -9967,6 +10054,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_the_recipe": "2021-08-11 00:17:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2021-12-19 21:27:43 -0500"
     },
     "done": true
   },

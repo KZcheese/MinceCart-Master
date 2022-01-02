@@ -3277,6 +3277,12 @@
     },
     "done": true
   },
+  "create:windmill": {
+    "criteria": {
+      "0": "2021-11-28 20:05:27 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/smooth_orange_sandstone_stairs_from_smooth_orange_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:17 -0400"
@@ -8172,6 +8178,12 @@
   "create:recipes/building_blocks/granite": {
     "criteria": {
       "has_the_recipe": "2021-08-14 21:26:16 -0400"
+    },
+    "done": true
+  },
+  "create:maxed_windmill": {
+    "criteria": {
+      "0": "2021-11-28 20:05:27 -0500"
     },
     "done": true
   },

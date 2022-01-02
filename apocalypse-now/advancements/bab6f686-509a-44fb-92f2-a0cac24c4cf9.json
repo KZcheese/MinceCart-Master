@@ -984,6 +984,12 @@
     },
     "done": true
   },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2021-12-19 22:08:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
@@ -1265,6 +1271,13 @@
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2021-12-19 20:42:34 -0500",
+      "minecraft:nether_wastes": "2022-01-01 21:10:07 -0500"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
@@ -3498,6 +3511,7 @@
       "minecraft:pillager": "2021-10-31 00:06:57 -0400",
       "minecraft:blaze": "2021-11-08 20:59:02 -0500",
       "minecraft:skeleton": "2021-08-14 22:01:01 -0400",
+      "minecraft:ghast": "2021-12-19 20:52:04 -0500",
       "minecraft:hoglin": "2021-08-17 22:27:55 -0400",
       "minecraft:vindicator": "2021-10-31 00:06:04 -0400",
       "minecraft:magma_cube": "2021-08-17 22:12:42 -0400",
@@ -3993,6 +4007,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2021-12-19 21:01:05 -0500"
     },
     "done": true
   },
@@ -4923,6 +4943,12 @@
   "biomesoplenty:recipes/building_blocks/black_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-01-01 21:47:07 -0500"
     },
     "done": true
   },
@@ -5985,6 +6011,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:13 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2022-01-01 20:36:39 -0500"
     },
     "done": true
   },
@@ -7284,6 +7316,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2022-01-01 21:03:52 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:14 -0400"
@@ -7903,6 +7941,7 @@
       "vegetable_soup": "2021-10-06 23:02:31 -0400",
       "honey_glazed_ham": "2021-10-05 22:11:06 -0400",
       "ratatouille": "2021-10-06 22:57:22 -0400",
+      "grilled_salmon": "2022-01-01 21:40:00 -0500",
       "pasta_with_meatballs": "2021-11-08 21:38:26 -0500",
       "roast_chicken": "2021-10-05 22:31:23 -0400"
     },
@@ -7941,6 +7980,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-09 21:43:15 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2022-01-01 20:47:27 -0500"
     },
     "done": true
   },
@@ -9727,15 +9772,21 @@
       "minecraft:forest": "2021-08-09 22:14:49 -0400",
       "minecraft:taiga": "2021-08-16 21:47:59 -0400",
       "minecraft:desert_hills": "2021-10-23 23:38:25 -0400",
+      "minecraft:giant_tree_taiga": "2022-01-01 21:04:20 -0500",
       "minecraft:deep_cold_ocean": "2021-08-14 21:39:57 -0400",
       "minecraft:desert": "2021-09-22 22:39:53 -0400",
       "minecraft:jungle": "2021-10-23 22:51:49 -0400",
+      "minecraft:birch_forest": "2021-12-19 22:03:15 -0500",
       "minecraft:jungle_hills": "2021-10-23 23:04:45 -0400",
       "minecraft:warm_ocean": "2021-11-12 23:07:28 -0500",
       "minecraft:savanna_plateau": "2021-11-12 23:13:54 -0500",
       "minecraft:beach": "2021-08-09 21:43:15 -0400",
+      "minecraft:dark_forest": "2022-01-01 20:37:22 -0500",
       "minecraft:river": "2021-08-14 21:34:19 -0400",
       "minecraft:lukewarm_ocean": "2021-10-23 22:48:14 -0400",
+      "minecraft:birch_forest_hills": "2021-12-19 22:09:05 -0500",
+      "minecraft:giant_tree_taiga_hills": "2022-01-01 21:06:24 -0500",
+      "minecraft:swamp": "2021-12-19 22:02:23 -0500",
       "minecraft:savanna": "2021-09-22 22:37:22 -0400",
       "minecraft:plains": "2021-09-22 22:50:44 -0400"
     },
@@ -10235,6 +10286,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-12-19 20:59:04 -0500",
       "sweet_berries": "2021-08-16 21:51:49 -0400",
       "baked_potato": "2021-08-16 21:33:56 -0400",
       "beef": "2021-08-16 22:04:39 -0400",
