@@ -1,4 +1,14 @@
-[13Jan2022 12:18:03.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[13Jan2022 12:18:03.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 2.tcp.ngrok.io:128192.tcp.ngrok.io:12819list<--[HERE]
-[13Jan2022 12:18:04.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
-[13Jan2022 17:52:09.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 152336ms or 3046 ticks behind
+[05Mar2022 19:26:45.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[05Mar2022 19:26:46.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[05Mar2022 19:26:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Mar2022 19:26:46.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Mar2022 19:26:46.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Mar2022 19:26:46.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:overworld
+[05Mar2022 19:26:46.883] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
+[05Mar2022 19:26:46.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_nether
+[05Mar2022 19:26:46.887] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Mar2022 19:26:46.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_end
+[05Mar2022 19:26:46.890] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Mar2022 19:26:46.995] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
+[05Mar2022 19:26:47.029] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Mar2022 19:26:47.030] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
