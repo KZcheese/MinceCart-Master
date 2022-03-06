@@ -1,14 +1,326 @@
-[05Mar2022 19:26:45.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
-[05Mar2022 19:26:46.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[05Mar2022 19:26:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[05Mar2022 19:26:46.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[05Mar2022 19:26:46.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[05Mar2022 19:26:46.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:overworld
-[05Mar2022 19:26:46.883] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
-[05Mar2022 19:26:46.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_nether
-[05Mar2022 19:26:46.887] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05Mar2022 19:26:46.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_end
-[05Mar2022 19:26:46.890] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05Mar2022 19:26:46.995] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
-[05Mar2022 19:26:47.029] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05Mar2022 19:26:47.030] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:55:51] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 39.1.0, --fml.mcVersion, 1.18.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20211210.034407, nogui]
+[22:55:51] [main/INFO]: ModLauncher 9.1.0+9.1.0+main.6690ee51 starting: java version 17.0.2 by Oracle Corporation
+[22:55:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/kevin/Documents/Github/MinceCart-Master/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2319!/ Service=ModLauncher Env=SERVER
+[22:55:51] [main/INFO]: Found mod file adaptive_performance_tweaks_1.18.1-2.0.1.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file adaptive_performance_tweaks_core_1.18.1-2.2.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file adaptive_performance_tweaks_gamerules_1.18.1-2.2.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file adaptive_performance_tweaks_items_1.18.1-2.2.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file adaptive_performance_tweaks_player_1.18.1-2.2.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file adaptive_performance_tweaks_spawn_1.18.1-2.2.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file AI-Improvements-1.18-0.4.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file appleskin-forge-mc1.18-2.3.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file artifacts-1.18.1-4.0.3.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file AutoRegLib-1.7-53.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file balm-2.4.3+0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file BiomesOPlenty-1.18.1-15.0.0.104-universal.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file corpse-1.18.1-1.0.4.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file curios-forge-1.18.1-5.0.6.2.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file DungeonsArise-1.18.1-2.1.49d-beta.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file endrem_forge-5.0.1-R-1.18.1.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file expandability-5.0.0-forge.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file FarmersDelight-1.18.1-1.0.3.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file FastSuite-1.18.1-3.0.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file ferritecore-4.1.2-forge.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file guardvillagers-1.18.1.4.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file jei-1.18.1-9.2.1.69.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file journeymap-1.18.1-5.8.0beta16.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file kleeslabs-forge-1.18.1-11.1.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file netherportalfix-forge-1.18-9.0.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file Placebo-1.18.1-6.1.1.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file Quark-3.1-340.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file SewingKit-1.18-1.5.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file SoL-Carrot-1.18.1-1.12.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file TerraBlender-forge-1.18.1-1.1.0.77.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file ToolBelt-1.18-1.18.0.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:51] [main/INFO]: Found mod file TravelersBackpack-1.18.1-7.0.3.jar of type MOD with locator {mods folder locator at C:\Users\kevin\Documents\Github\MinceCart-Master\mods}
+[22:55:52] [main/INFO]: Found mod file fmlcore-1.18.1-39.1.0.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@636e8cc
+[22:55:52] [main/INFO]: Found mod file javafmllanguage-1.18.1-39.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@636e8cc
+[22:55:52] [main/INFO]: Found mod file mclanguage-1.18.1-39.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@636e8cc
+[22:55:52] [main/INFO]: Found mod file server-1.18.1-20211210.034407-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@636e8cc
+[22:55:52] [main/INFO]: Found mod file forge-1.18.1-39.1.0-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@636e8cc
+[22:55:53] [main/INFO]: Compatibility level set to JAVA_17
+[22:55:53] [main/INFO]: Launching target 'forgeserver' with arguments [nogui]
+[22:55:54] [main/INFO]: Patching ServerResources#<init>
+[22:56:02] [modloading-worker-0/INFO]: Register Adaptive Performance Tweaks: Core common config ...
+[22:56:02] [modloading-worker-0/INFO]: Registering Adaptive Performance Tweaks: Spawn common config ...
+[22:56:02] [modloading-worker-0/INFO]: Patching ServerResources#<init>
+[22:56:03] [modloading-worker-0/INFO]: Thanks for using ? Adaptive Performance Tweaks (bundle), please report issues to: https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks/issues
+[22:56:03] [modloading-worker-0/INFO]: Registering Adaptive Performance Tweaks: Player common config ...
+[22:56:03] [modloading-worker-0/INFO]: Registering Adaptive Performance Tweaks: Gamerules common config ...
+[22:56:03] [modloading-worker-0/INFO]: Forge mod loading, version 39.1.0, for MC 1.18.1 with MCP 20211210.034407
+[22:56:03] [modloading-worker-0/INFO]: Registering Adaptive Performance Tweaks: Items common config ...
+[22:56:03] [modloading-worker-0/INFO]: MinecraftForge v39.1.0 Initialized
+[22:56:03] [modloading-worker-0/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.WaterEffect as a FluidEffect for Water with the ID 0
+[22:56:03] [modloading-worker-0/INFO]: ExpandAbility here, who dis?
+[22:56:03] [modloading-worker-0/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.LavaEffect as a FluidEffect for Lava with the ID 1
+[22:56:06] [main/INFO]: Loading Module Redstone Randomizer
+[22:56:06] [main/INFO]: Loading Module Pistons Move Tile Entities
+[22:56:06] [main/INFO]: Loading Module Obsidian Plate
+[22:56:06] [main/INFO]: Loading Module Metal Buttons
+[22:56:06] [main/INFO]: Loading Module Jukebox Automation
+[22:56:06] [main/INFO]: Loading Module Iron Rod
+[22:56:06] [main/INFO]: Loading Module Gravisand
+[22:56:06] [main/INFO]: Loading Module Feeding Trough
+[22:56:06] [main/INFO]: Loading Module Ender Watcher
+[22:56:06] [main/INFO]: Loading Module Dispensers Place Blocks
+[22:56:06] [main/INFO]: Loading Module Chute
+[22:56:06] [main/INFO]: Loading Module Chains Connect Blocks
+[22:56:06] [main/INFO]: Loading Module Wooden Posts
+[22:56:06] [main/INFO]: Loading Module Vertical Slabs
+[22:56:06] [main/INFO]: Loading Module Variant Ladders
+[22:56:06] [main/INFO]: Loading Module Variant Furnaces
+[22:56:06] [main/INFO]: Loading Module Variant Chests
+[22:56:06] [main/INFO]: Loading Module Variant Bookshelves
+[22:56:06] [main/INFO]: Loading Module Thatch
+[22:56:06] [main/INFO]: Loading Module Sturdy Stone
+[22:56:06] [main/INFO]: Loading Module Stools
+[22:56:06] [main/INFO]: Loading Module Soul Sandstone
+[22:56:06] [main/INFO]: Loading Module Shingles
+[22:56:06] [main/INFO]: Loading Module Shear Vines
+[22:56:06] [main/INFO]: Loading Module Rope
+[22:56:06] [main/INFO]: Loading Module Oriental Palette
+[22:56:06] [main/INFO]: Loading Module Nether Brick Fence Gate
+[22:56:06] [main/INFO]: Loading Module More Stone Variants
+[22:56:06] [main/INFO]: Loading Module More Potted Plants
+[22:56:06] [main/INFO]: Loading Module More Brick Types
+[22:56:06] [main/INFO]: Loading Module Midori
+[22:56:06] [main/INFO]: Loading Module Leaf Carpet
+[22:56:06] [main/INFO]: Loading Module Industrial Palette
+[22:56:06] [main/INFO]: Loading Module Hedges
+[22:56:06] [main/INFO]: Loading Module Grate
+[22:56:06] [main/INFO]: Loading Module Gold Bars
+[22:56:06] [main/INFO]: Loading Module Glass Item Frame
+[22:56:06] [main/INFO]: Loading Module Framed Glass
+[22:56:06] [main/INFO]: Loading Module Duskbound Blocks
+[22:56:06] [main/INFO]: Loading Module Compressed Blocks
+[22:56:06] [main/INFO]: Loading Module Celebratory Lamps
+[22:56:06] [main/INFO]: Loading Module Quick Armor Swapping
+[22:56:06] [main/INFO]: Loading Module Item Sharing
+[22:56:06] [main/INFO]: Loading Module Inventory Sorting
+[22:56:06] [main/INFO]: Loading Module Hotbar Changer
+[22:56:06] [main/INFO]: Loading Module Expanded Item Interactions
+[22:56:06] [main/INFO]: Loading Module Easy Transfering
+[22:56:06] [main/INFO]: Loading Module Chests In Boats
+[22:56:06] [main/INFO]: Loading Module Trowel
+[22:56:06] [main/INFO]: Loading Module Slime In A Bucket
+[22:56:06] [main/INFO]: Loading Module Seed Pouch
+[22:56:06] [main/INFO]: Loading Module Pickarang
+[22:56:06] [main/INFO]: Loading Module Pathfinder Maps
+[22:56:06] [main/INFO]: Loading Module Endermosh Music Disc
+[22:56:06] [main/INFO]: Loading Module Color Runes
+[22:56:06] [main/INFO]: Loading Module Camera
+[22:56:06] [main/INFO]: Loading Module Bundle Recipe
+[22:56:06] [main/INFO]: Loading Module Bottled Cloud
+[22:56:06] [main/INFO]: Loading Module Beacon Redirection
+[22:56:06] [main/INFO]: Loading Module Ancient Tomes
+[22:56:06] [main/INFO]: Loading Module Ambient Discs
+[22:56:06] [main/INFO]: Loading Module Abacus
+[22:56:06] [main/INFO]: Loading Module Villagers Follow Emeralds
+[22:56:06] [main/INFO]: Loading Module Utility Recipes
+[22:56:06] [main/INFO]: Loading Module Snow Golem Player Heads
+[22:56:06] [main/INFO]: Loading Module Simple Harvest
+[22:56:06] [main/INFO]: Loading Module Sign Editing
+[22:56:06] [main/INFO]: Loading Module Replace Scaffolding
+[22:56:06] [main/INFO]: Loading Module Reacharound Placing
+[22:56:06] [main/INFO]: Loading Module Poison Potato Usage
+[22:56:06] [main/INFO]: Loading Module Pat The Dogs
+[22:56:06] [main/INFO]: Loading Module Note Block Mob Sounds
+[22:56:06] [main/INFO]: Loading Module More Banner Layers
+[22:56:06] [main/INFO]: Loading Module Lock Rotation
+[22:56:06] [main/INFO]: Loading Module Hoe Harvesting
+[22:56:06] [main/INFO]: Loading Module Glass Shard
+[22:56:06] [main/INFO]: Loading Module Enhanced Ladders
+[22:56:06] [main/INFO]: Loading Module Emotes
+[22:56:06] [main/INFO]: Loading Module Dragon Scales
+[22:56:06] [main/INFO]: Loading Module Double Door Opening
+[22:56:06] [main/INFO]: Loading Module Compasses Work Everywhere
+[22:56:06] [main/INFO]: Loading Module Campfires Boost Elytra
+[22:56:06] [main/INFO]: Loading Module Better Elytra Rocket
+[22:56:06] [main/INFO]: Loading Module Automatic Recipe Unlock
+[22:56:06] [main/INFO]: Loading Module Armed Armor Stands
+[22:56:06] [main/INFO]: Loading Module Skull Pikes
+[22:56:06] [main/INFO]: Loading Module Spiral Spires
+[22:56:06] [main/INFO]: Loading Module Permafrost
+[22:56:06] [main/INFO]: Loading Module New Stone Types
+[22:56:06] [main/INFO]: Loading Module Nether Obsidian Spikes
+[22:56:06] [main/INFO]: Loading Module Monster Box
+[22:56:06] [main/INFO]: Loading Module Glimmering Weald
+[22:56:06] [main/INFO]: Loading Module Fairy Rings
+[22:56:06] [main/INFO]: Loading Module Corundum
+[22:56:06] [main/INFO]: Loading Module Chorus Vegetation
+[22:56:06] [main/INFO]: Loading Module Blossom Trees
+[22:56:06] [main/INFO]: Loading Module Big Stone Clusters
+[22:56:06] [main/INFO]: Loading Module Big Dungeon
+[22:56:06] [main/INFO]: Loading Module Azalea Wood
+[22:56:06] [main/INFO]: Loading Module Wraith
+[22:56:06] [main/INFO]: Loading Module Toretoise
+[22:56:06] [main/INFO]: Loading Module Stonelings
+[22:56:06] [main/INFO]: Loading Module Shiba
+[22:56:06] [main/INFO]: Loading Module Frogs
+[22:56:06] [main/INFO]: Loading Module Foxhound
+[22:56:06] [main/INFO]: Loading Module Forgotten
+[22:56:06] [main/INFO]: Loading Module Crabs
+[22:56:06] [main/INFO]: Loading Module Variant Animal Textures
+[22:56:06] [main/INFO]: Loading Module Usage Ticker
+[22:56:06] [main/INFO]: Loading Module Soul Candles
+[22:56:06] [main/INFO]: Loading Module Microcrafting Helper
+[22:56:06] [main/INFO]: Loading Module Improved Tooltips
+[22:56:06] [main/INFO]: Loading Module Greener Grass
+[22:56:06] [main/INFO]: Loading Module Chest Searching
+[22:56:06] [main/INFO]: Loading Module Back Button Keybind
+[22:56:06] [main/INFO]: Loading Module Auto Walk Keybind
+[22:56:06] [main/INFO]: Loading Module Overlay Shader
+[22:56:06] [main/INFO]: Loading Module Narrator Readout
+[22:56:06] [main/INFO]: Loading Module Game Nerfs
+[22:56:06] [main/INFO]: Loading Module Adjustable Chat
+[22:56:06] [main/INFO]: Loading Module Totem Of Holding
+[22:56:06] [main/INFO]: Loading Module Pipes
+[22:56:06] [main/INFO]: Loading Module Matrix Enchanting
+[22:56:06] [main/INFO]: Loading Module Magnets
+[22:56:06] [main/INFO]: Loading Module Crate
+[22:56:06] [main/INFO]: Loading Module Backpack
+[22:56:07] [main/INFO]: Initializing Packet Registries
+[22:56:07] [main/INFO]: Registered biome provider minecraft:biome_provider to index 0
+[22:56:07] [main/INFO]: Removed biome provider minecraft:biome_provider
+[22:56:07] [main/INFO]: Registered biome provider minecraft:biome_provider to index 0
+[22:56:07] [main/INFO]: Registered biome provider biomesoplenty:biome_provider to index 1
+[22:56:07] [main/INFO]: Registered biome provider biomesoplenty:rare_biome_provider to index 2
+[22:56:07] [main/INFO]: Registered biome provider quark:biome_provider to index 3
+[22:56:07] [modloading-worker-0/INFO]: Got IMC []
+[22:56:07] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22:56:09] [Forge Version Check/INFO]: [journeymap] Found status: BETA Current: 5.8.0beta16 Target: 5.8.0beta16
+[22:56:09] [Forge Version Check/INFO]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[22:56:09] [Forge Version Check/INFO]: [travelersbackpack] Found status: OUTDATED Current: 7.0.2 Target: 7.0.3
+[22:56:09] [Forge Version Check/INFO]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[22:56:10] [Forge Version Check/INFO]: [guardvillagers] Found status: UP_TO_DATE Current: 1.4.0 Target: null
+[22:56:10] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22:56:10] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 39.1.0 Target: null
+[22:56:10] [Forge Version Check/INFO]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[22:56:12] [Forge Version Check/INFO]: [corpse] Found status: UP_TO_DATE Current: 1.18.1-1.0.4 Target: null
+[22:56:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:56:13] [main/WARN]: This world was saved with mod toolbelt version 1.18.6 and it is now at version 1.18.0, things may not work well
+[22:56:13] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[22:56:17] [main/WARN]: Assets URL 'union:/C:/Users/kevin/Documents/Github/MinceCart-Master/libraries/net/minecraft/server/1.18.1-20211210.034407/server-1.18.1-20211210.034407-srg.jar%2370!/assets/.mcassetsroot' uses unexpected schema
+[22:56:17] [main/WARN]: Assets URL 'union:/C:/Users/kevin/Documents/Github/MinceCart-Master/libraries/net/minecraft/server/1.18.1-20211210.034407/server-1.18.1-20211210.034407-srg.jar%2370!/data/.mcassetsroot' uses unexpected schema
+[22:56:17] [main/INFO]: Registering /aptweaks commands for Adaptive Performance Tweaks: Spawn ...
+[22:56:17] [main/INFO]: Registering /aptweaks commands for Adaptive Performance Tweaks: Core ...
+[22:56:17] [main/INFO]: Registering /aptweaks commands for Adaptive Performance Tweaks: Player ...
+[22:56:17] [main/INFO]: Registering /aptweaks commands for Adaptive Performance Tweaks: Gamerules ...
+[22:56:17] [main/INFO]: Registering /aptweaks commands for Adaptive Performance Tweaks: Items ...
+[22:56:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:56:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:56:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:56:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:56:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:56:17] [main/WARN]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:56:17] [main/WARN]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[22:56:17] [main/WARN]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[22:56:17] [main/INFO]: Reloading ResourceManager: Default, FarmersDelight-1.18.1-1.0.3.jar, adaptive_performance_tweaks_core_1.18.1-2.2.0.jar, TerraBlender-forge-1.18.1-1.1.0.77.jar, adaptive_performance_tweaks_spawn_1.18.1-2.2.0.jar, ToolBelt-1.18-1.18.0.jar, BiomesOPlenty-1.18.1-15.0.0.104-universal.jar, endrem_forge-5.0.1-R-1.18.1.jar, jei-1.18.1-9.2.1.69.jar, curios-forge-1.18.1-5.0.6.2.jar, SewingKit-1.18-1.5.0.jar, FastSuite-1.18.1-3.0.0.jar, journeymap-1.18.1-5.8.0beta16.jar, Placebo-1.18.1-6.1.1.jar, AutoRegLib-1.7-53.jar, adaptive_performance_tweaks_1.18.1-2.0.1.jar, TravelersBackpack-1.18.1-7.0.3.jar, artifacts-1.18.1-4.0.3.jar, guardvillagers-1.18.1.4.0.jar, adaptive_performance_tweaks_gamerules_1.18.1-2.2.0.jar, ferritecore-4.1.2-forge.jar, AI-Improvements-1.18-0.4.0.jar, SoL-Carrot-1.18.1-1.12.0.jar, adaptive_performance_tweaks_items_1.18.1-2.2.0.jar, forge-1.18.1-39.1.0-universal.jar, Quark-3.1-340.jar, appleskin-forge-mc1.18-2.3.0.jar, adaptive_performance_tweaks_player_1.18.1-2.2.0.jar, expandability-5.0.0-forge.jar, corpse-1.18.1-1.0.4.jar, DungeonsArise-1.18.1-2.1.49d-beta.jar, netherportalfix-forge-1.18-9.0.0.jar, kleeslabs-forge-1.18.1-11.1.0.jar, balm-2.4.3+0.jar
+[22:56:21] [Worker-Main-23/INFO]: Loaded 10 recipes
+[22:56:23] [Worker-Main-23/INFO]: Registered 0 additional loot tables.
+[22:56:24] [Worker-Main-23/INFO]: [Automatic Recipe Unlock] Removed 1438 recipe advancements
+[22:56:24] [Worker-Main-23/INFO]: Loaded 172 advancements
+[22:56:24] [Worker-Main-23/INFO]: Registered 0 additional recipes.
+[22:56:24] [Worker-Main-23/INFO]: Successfully processed 2943 recipes into the AuxRecipeManager.
+[22:56:28] [main/INFO]: Using original world generation settings
+[22:56:30] [main/INFO]: Using original world generation settings
+[22:56:30] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[22:56:30] [Server thread/INFO]: Loading properties
+[22:56:30] [Server thread/INFO]: Default game type: SURVIVAL
+[22:56:30] [Server thread/INFO]: Generating keypair
+[22:56:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:56:31] [Server thread/INFO]: Using default channel type
+[22:56:31] [Server thread/INFO]: Loading JourneyMap Forge Configs
+[22:56:31] [Thread-0/INFO]: Loading JourneyMap Forge Configs
+[22:56:31] [Thread-0/INFO]: Loading JourneyMap Forge Configs
+[22:56:31] [Server thread/INFO]: [APTweaks:Core] Game difficult factors EASY: 0.75, NORMAL: 1.0, PEACEFUL: 1.0 and HARD: 1.5
+[22:56:31] [Server thread/INFO]: Max number of Items allowed per world: 128 / per type: 32
+[22:56:31] [Server thread/INFO]: Enable clustering of items with a radius of 3 blocks.
+[22:56:31] [Server thread/INFO]: Enable clustering of Experience Orbs with a radius of 4 blocks.
+[22:56:31] [Server thread/INFO]: Preparing level "chasmic-chaos"
+[22:56:31] [Server thread/ERROR]: Was unable to check if minecraft:overworld is using Terraforged's ChunkGenerator.
+[22:56:31] [Server thread/ERROR]: Was unable to check if minecraft:overworld is using Terraforged's ChunkGenerator.
+[22:56:31] [Server thread/ERROR]: Was unable to check if minecraft:the_nether is using Terraforged's ChunkGenerator.
+[22:56:31] [Server thread/ERROR]: Was unable to check if minecraft:the_nether is using Terraforged's ChunkGenerator.
+[22:56:31] [Server thread/ERROR]: Was unable to check if minecraft:the_end is using Terraforged's ChunkGenerator.
+[22:56:31] [Server thread/ERROR]: Was unable to check if minecraft:the_end is using Terraforged's ChunkGenerator.
+[22:56:31] [Server thread/INFO]: [APTweaks:Core] Game difficulty is set to HARD with a 1.5 factor.
+[22:56:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:56:31] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[22:56:32] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[22:56:32] [Worker-Main-30/INFO]: Preparing spawn area: 0%
+[22:56:33] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[22:56:33] [Worker-Main-30/INFO]: Preparing spawn area: 0%
+[22:56:34] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[22:56:34] [Worker-Main-29/INFO]: Preparing spawn area: 0%
+[22:56:34] [Worker-Main-29/INFO]: Preparing spawn area: 0%
+[22:56:35] [Worker-Main-16/INFO]: Preparing spawn area: 5%
+[22:56:35] [Worker-Main-20/INFO]: Preparing spawn area: 19%
+[22:56:37] [Worker-Main-25/INFO]: Preparing spawn area: 29%
+[22:56:37] [Worker-Main-20/INFO]: Preparing spawn area: 29%
+[22:56:37] [Worker-Main-25/INFO]: Preparing spawn area: 29%
+[22:56:38] [Worker-Main-24/INFO]: Preparing spawn area: 65%
+[22:56:38] [Worker-Main-16/INFO]: Preparing spawn area: 68%
+[22:56:38] [Worker-Main-16/INFO]: Preparing spawn area: 68%
+[22:56:39] [Worker-Main-20/INFO]: Preparing spawn area: 70%
+[22:56:39] [Worker-Main-26/INFO]: Preparing spawn area: 70%
+[22:56:40] [Worker-Main-27/INFO]: Preparing spawn area: 74%
+[22:56:40] [Worker-Main-16/INFO]: Preparing spawn area: 76%
+[22:56:41] [Worker-Main-19/INFO]: Preparing spawn area: 82%
+[22:56:41] [Worker-Main-20/INFO]: Preparing spawn area: 83%
+[22:56:42] [Worker-Main-30/INFO]: Preparing spawn area: 85%
+[22:56:42] [Worker-Main-25/INFO]: Preparing spawn area: 85%
+[22:56:43] [Worker-Main-17/INFO]: Preparing spawn area: 87%
+[22:56:43] [Worker-Main-24/INFO]: Preparing spawn area: 90%
+[22:56:44] [Worker-Main-17/INFO]: Preparing spawn area: 93%
+[22:56:44] [Worker-Main-25/INFO]: Preparing spawn area: 96%
+[22:56:45] [Server thread/INFO]: Time elapsed: 13733 ms
+[22:56:45] [Server thread/INFO]: Done (13.931s)! For help, type "help"
+[22:56:45] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[22:56:45] [Server thread/INFO]: [APTweaks:Core] Max number of remote players is set to 20
+[22:56:45] [Server thread/INFO]: [APTweaks:Spawn] Spawn allow list: []
+[22:56:45] [Server thread/INFO]: [APTweaks:Spawn] Spawn deny list: []
+[22:56:45] [Server thread/INFO]: [APTweaks:Spawn] Ignore dimension list: [minecraft:the_end]
+[22:56:45] [Server thread/INFO]: [APTweaks:Spawn] ? Enable limiter and block randomly every 10 mob from spawning ...
+[22:56:45] [Server thread/INFO]: [APTweaks:Spawn] ? Enable spawn rate control with max 128 per world ...
+[22:56:45] [Server thread/INFO]: [APTweaks:Spawn] ? Enable spawn rate control with max 8 per player ...
+[22:56:45] [Server thread/INFO]: View distance will be optimized between 5 and 16 with 8 as default and 60 sec delay between updates.
+[22:56:45] [Server thread/INFO]: Simulation distance will be optimized between 2 and 10 with 5 as default and 30 sec delay between updates.
+[22:56:45] [Server thread/INFO]: Player will be protected during login for max. of 90 secs.
+[22:56:45] [Server thread/INFO]: Gamerules will be optimized with an 30 sec delay between updates.
+[22:56:45] [Server thread/INFO]: Random Tick Speed will be optimized between 1 and 3
+[22:56:45] [Server thread/INFO]: Max Entity Cramming will be optimized between 5 and 24
+[22:56:45] [Server thread/INFO]: Patrol spawning will be automatically disabled during very high server load!
+[22:56:45] [Server thread/INFO]: Raids will be automatically disabled during very high server load!
+[22:56:45] [Server thread/INFO]: Insomnia (phantoms spawn) will be automatically disabled during very high server load!
+[22:56:45] [Server thread/INFO]: Trader spawning will be automatically disabled during very high server load!
+[22:56:45] [Server thread/INFO]: Found dimension minecraft:overworld
+[22:56:45] [Server thread/INFO]: Found dimension minecraft:the_nether
+[22:56:45] [Server thread/INFO]: Found dimension minecraft:the_end
+[22:56:46] [Server thread/INFO]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 50.0) to LOW (avg. 25.32830047607422)
+[22:56:47] [Server thread/INFO]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 7.1908770099999995)
+[22:56:47] [Server thread/INFO]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.05073307)
+[22:56:47] [Server thread/INFO]: [APTweaks:Core] ↓ Level load for minecraft:the_end changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.02702295)
+[22:56:58] [Server thread/INFO]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.32830047607422) to VERY_LOW (avg. 1.4083293676376343)
+[22:59:45] [User Authenticator #1/INFO]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
+[22:59:47] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@707bf112
+[22:59:47] [Server thread/INFO]: KZcheese[/127.0.0.1:2194] logged in with entity id 18 at (15.5, 68.0, -14.5)
+[22:59:47] [Server thread/INFO]: KZcheese joined the game
+[22:59:47] [Server thread/INFO]: Player KZcheese ServerPlayer['KZcheese'/18, l='ServerLevel[chasmic-chaos]', x=15.50, y=68.00, z=-14.50] logged in and will be protected for 90 secs.
+[22:59:47] [Server thread/INFO]: Protected Player KZcheese was successful validated after 0 secs.
+[22:59:47] [Server thread/INFO]: Removing player protection from player KZcheese!
+[23:00:05] [Server thread/INFO]: Made KZcheese a server operator
+[23:00:11] [Server thread/INFO]: [KZcheese: Set own game mode to Creative Mode]
+[23:00:17] [Server thread/INFO]: KZcheese lost connection: Disconnected
+[23:00:17] [Server thread/INFO]: KZcheese left the game
+[23:00:21] [Server thread/INFO]: Stopping the server
+[23:00:21] [Server thread/INFO]: Stopping server
+[23:00:21] [Server thread/INFO]: Saving players
+[23:00:21] [Server thread/INFO]: Saving worlds
+[23:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[chasmic-chaos]'/minecraft:overworld
+[23:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[chasmic-chaos]'/minecraft:the_nether
+[23:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[chasmic-chaos]'/minecraft:the_end
+[23:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (chasmic-chaos): All chunks are saved
+[23:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
