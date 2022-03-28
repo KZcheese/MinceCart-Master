@@ -1,204 +1,38 @@
-[00:02:10] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5de082e6
-[00:05:34] [Server thread/INFO]: Gnot has reached the goal [Dinner's Served!]
-[00:07:07] [Server thread/INFO]: Gnot has made the advancement [Glow and Behold!]
-[00:29:46] [Server thread/INFO]: Gnot lost connection: Disconnected
-[00:29:46] [Server thread/INFO]: Gnot left the game
-[00:34:24] [User Authenticator #11/INFO]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
-[00:34:26] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cf2f19e
-[00:34:26] [Server thread/INFO]: Gnot[/[0:0:0:0:0:0:0:1]:9462] logged in with entity id 5068347 at (-236.86523630563482, 9.0, 208.5267587720789)
-[00:34:26] [Server thread/INFO]: Gnot joined the game
-[00:34:26] [Server thread/INFO]: Player Gnot ServerPlayer['Gnot'/5068347, l='ServerLevel[chasmic-chaos]', x=-236.87, y=9.00, z=208.53] logged in and will be protected for 90 secs.
-[00:34:34] [Server thread/INFO]: Protected Player Gnot was successful validated after 8 secs.
-[00:34:34] [Server thread/INFO]: Removing player protection from player Gnot!
-[00:53:38] [Server thread/INFO]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.944296836853027) to LOW (avg. 20.192691802978516)
-[00:53:50] [Server thread/INFO]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.192691802978516) to VERY_LOW (avg. 10.840910911560059)
-[00:57:12] [Server thread/INFO]: Gnot has made the advancement [Hot Stuff]
-[01:48:08] [Server thread/INFO]: Gnot lost connection: Disconnected
-[01:48:08] [Server thread/INFO]: Gnot left the game
-[09:31:35] [User Authenticator #12/INFO]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
-[09:31:37] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@174bd066
-[09:31:37] [Server thread/INFO]: Gnot[/[0:0:0:0:0:0:0:1]:11011] logged in with entity id 5795299 at (-362.69696177923515, 65.0, 270.1672469563688)
-[09:31:37] [Server thread/INFO]: Gnot joined the game
-[09:31:37] [Server thread/INFO]: Player Gnot ServerPlayer['Gnot'/5795299, l='ServerLevel[chasmic-chaos]', x=-362.70, y=65.00, z=270.17] logged in and will be protected for 90 secs.
-[09:31:38] [Server thread/INFO]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 0.8829562664031982) to LOW (avg. 23.3173770904541)
-[09:31:44] [Server thread/INFO]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.3173770904541) to VERY_LOW (avg. 11.639248847961426)
-[09:31:44] [Server thread/INFO]: Protected Player Gnot was successful validated after 7 secs.
-[09:31:44] [Server thread/INFO]: Removing player protection from player Gnot!
-[09:36:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-441, y=75, z=570} BlockPos{x=-434, y=82, z=571}
-[09:43:38] [Server thread/INFO]: Gnot lost connection: Disconnected
-[09:43:38] [Server thread/INFO]: Gnot left the game
-[09:44:42] [User Authenticator #13/INFO]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
-[09:44:44] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@aa24829
-[09:44:44] [Server thread/INFO]: Gnot[/[0:0:0:0:0:0:0:1]:11054] logged in with entity id 5898238 at (-329.01480248053855, 65.0, 258.0424593983517)
-[09:44:44] [Server thread/INFO]: Gnot joined the game
-[09:44:44] [Server thread/INFO]: Player Gnot ServerPlayer['Gnot'/5898238, l='ServerLevel[chasmic-chaos]', x=-329.01, y=65.00, z=258.04] logged in and will be protected for 90 secs.
-[09:44:48] [Server thread/INFO]: Protected Player Gnot was successful validated after 3 secs.
-[09:44:48] [Server thread/INFO]: Removing player protection from player Gnot!
-[10:24:08] [Server thread/INFO]: Gnot has made the advancement [Wild Butcher]
-[10:26:25] [Server thread/WARN]: Fetching packet for removed entity ItemEntity['Air'/56491, l='ServerLevel[chasmic-chaos]', x=74.23, y=-39.00, z=190.79, removed=DISCARDED]
-[10:26:33] [Server thread/WARN]: Fetching packet for removed entity ItemEntity['Air'/178093, l='ServerLevel[chasmic-chaos]', x=101.42, y=-11.84, z=244.75, removed=DISCARDED]
-[10:26:33] [Server thread/WARN]: Fetching packet for removed entity ItemEntity['Air'/178090, l='ServerLevel[chasmic-chaos]', x=106.69, y=-9.80, z=245.26, removed=DISCARDED]
-[10:26:33] [Server thread/WARN]: Fetching packet for removed entity ItemEntity['Air'/178095, l='ServerLevel[chasmic-chaos]', x=105.70, y=-14.72, z=251.66, removed=DISCARDED]
-[10:26:34] [Server thread/WARN]: Fetching packet for removed entity ItemEntity['Air'/178087, l='ServerLevel[chasmic-chaos]', x=108.28, y=-16.72, z=255.48, removed=DISCARDED]
-[10:26:38] [Server thread/WARN]: Fetching packet for removed entity ItemEntity['Air'/1137946, l='ServerLevel[chasmic-chaos]', x=97.76, y=-32.00, z=265.77, removed=DISCARDED]
-[10:35:33] [Server thread/INFO]: Gnot lost connection: Disconnected
-[10:35:33] [Server thread/INFO]: Gnot left the game
-[11:40:19] [User Authenticator #14/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[11:40:20] [Netty Server IO #5/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[11:40:20] [Netty Server IO #5/ERROR]: Terminating connection with client, mismatched mod list
-[11:40:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@50c44e51[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@3b5bdf62]},legacy=false] (/[0:0:0:0:0:0:0:1]:11410) lost connection: Connection closed - mismatched mod channel list
-[11:40:30] [User Authenticator #15/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[11:40:30] [Netty Server IO #6/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[11:40:30] [Netty Server IO #6/ERROR]: Terminating connection with client, mismatched mod list
-[11:40:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@1301e31d[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@6339dc8]},legacy=false] (/[0:0:0:0:0:0:0:1]:11412) lost connection: Connection closed - mismatched mod channel list
-[11:40:45] [User Authenticator #16/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[11:40:45] [Netty Server IO #7/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[11:40:45] [Netty Server IO #7/ERROR]: Terminating connection with client, mismatched mod list
-[11:40:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@923abcc[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@42344ec9]},legacy=false] (/[0:0:0:0:0:0:0:1]:11414) lost connection: Connection closed - mismatched mod channel list
-[11:41:08] [User Authenticator #17/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[11:41:08] [Netty Server IO #8/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[11:41:08] [Netty Server IO #8/ERROR]: Terminating connection with client, mismatched mod list
-[11:41:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@49e91c41[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@7bebcd08]},legacy=false] (/[0:0:0:0:0:0:0:1]:11420) lost connection: Connection closed - mismatched mod channel list
-[11:41:31] [User Authenticator #18/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[11:41:31] [Netty Server IO #9/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[11:41:31] [Netty Server IO #9/ERROR]: Terminating connection with client, mismatched mod list
-[11:41:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b2d75eb[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@392fed32]},legacy=false] (/[0:0:0:0:0:0:0:1]:11425) lost connection: Connection closed - mismatched mod channel list
-[11:41:44] [User Authenticator #19/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[11:41:44] [Netty Server IO #10/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[11:41:44] [Netty Server IO #10/ERROR]: Terminating connection with client, mismatched mod list
-[11:41:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@27a87098[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@7e6a013c]},legacy=false] (/[0:0:0:0:0:0:0:1]:11427) lost connection: Connection closed - mismatched mod channel list
-[11:41:50] [User Authenticator #20/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[11:41:50] [Netty Server IO #11/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[11:41:50] [Netty Server IO #11/ERROR]: Terminating connection with client, mismatched mod list
-[11:41:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@33c1c26a[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@220c3a58]},legacy=false] (/[0:0:0:0:0:0:0:1]:11429) lost connection: Connection closed - mismatched mod channel list
-[11:42:15] [User Authenticator #21/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[11:42:16] [Netty Server IO #12/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[11:42:16] [Netty Server IO #12/ERROR]: Terminating connection with client, mismatched mod list
-[11:42:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@621962c8[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@42605e87]},legacy=false] (/[0:0:0:0:0:0:0:1]:11431) lost connection: Connection closed - mismatched mod channel list
-[11:43:34] [User Authenticator #22/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[11:43:34] [Netty Server IO #13/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[11:43:34] [Netty Server IO #13/ERROR]: Terminating connection with client, mismatched mod list
-[11:43:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@651f2a3[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@5b617695]},legacy=false] (/[0:0:0:0:0:0:0:1]:11438) lost connection: Connection closed - mismatched mod channel list
-[13:54:45] [User Authenticator #23/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[13:54:46] [Netty Server IO #0/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[13:54:46] [Netty Server IO #0/ERROR]: Terminating connection with client, mismatched mod list
-[13:54:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@290c2e1b[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@6c038066]},legacy=false] (/[0:0:0:0:0:0:0:1]:11901) lost connection: Connection closed - mismatched mod channel list
-[17:16:23] [User Authenticator #24/INFO]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
-[17:16:25] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1e92ec27
-[17:16:25] [Server thread/INFO]: Gnot[/[0:0:0:0:0:0:0:1]:12589] logged in with entity id 6625896 at (5.941208230367337, 67.0, 2.667180889353623)
-[17:16:25] [Server thread/INFO]: Gnot joined the game
-[17:16:25] [Server thread/INFO]: Player Gnot ServerPlayer['Gnot'/6625896, l='ServerLevel[chasmic-chaos]', x=5.94, y=67.00, z=2.67] logged in and will be protected for 90 secs.
-[17:16:37] [Server thread/INFO]: Protected Player Gnot was successful validated after 11 secs.
-[17:16:37] [Server thread/INFO]: Removing player protection from player Gnot!
-[17:29:55] [User Authenticator #25/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[17:29:55] [Netty Server IO #13/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[17:29:55] [Netty Server IO #13/ERROR]: Terminating connection with client, mismatched mod list
-[17:29:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@48b3930f[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@7498f113]},legacy=false] (/[0:0:0:0:0:0:0:1]:12629) lost connection: Connection closed - mismatched mod channel list
-[17:49:55] [User Authenticator #26/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[17:49:55] [Netty Server IO #0/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[17:49:55] [Netty Server IO #0/ERROR]: Terminating connection with client, mismatched mod list
-[17:49:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@443e15a9[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@20b978cf]},legacy=false] (/[0:0:0:0:0:0:0:1]:12703) lost connection: Connection closed - mismatched mod channel list
-[17:49:59] [User Authenticator #27/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[17:49:59] [Netty Server IO #1/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[17:49:59] [Netty Server IO #1/ERROR]: Terminating connection with client, mismatched mod list
-[17:49:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@20b17ae8[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@2bdb8a90]},legacy=false] (/[0:0:0:0:0:0:0:1]:12705) lost connection: Connection closed - mismatched mod channel list
-[17:50:13] [User Authenticator #28/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[17:50:13] [Netty Server IO #2/ERROR]: Channels [solcarrot:main,quark:main,guardvillagers:main,kleeslabs:network,artifacts:main,toolbelt:general,curios:main] rejected their client side version number
-[17:50:13] [Netty Server IO #2/ERROR]: Terminating connection with client, mismatched mod list
-[17:50:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@58058e2b[id=de62381b-7b27-4b9b-ab00-7c89bf9e678b,name=duh_hell,properties={textures=[com.mojang.authlib.properties.Property@35438eda]},legacy=false] (/[0:0:0:0:0:0:0:1]:12706) lost connection: Connection closed - mismatched mod channel list
-[18:10:56] [Server thread/INFO]: Villager Villager['Farmer'/6705210, l='ServerLevel[chasmic-chaos]', x=-470.02, y=63.00, z=274.19] died, message: 'Farmer was burnt to a crisp whilst fighting Zombie'
-[18:16:14] [Server thread/INFO]: Villager Villager['Farmer'/6690398, l='ServerLevel[chasmic-chaos]', x=-475.30, y=69.00, z=304.33] died, message: 'Farmer was slain by Zombie'
-[18:16:52] [Server thread/INFO]: Villager Villager['Villager'/6689168, l='ServerLevel[chasmic-chaos]', x=-413.37, y=66.00, z=313.62] died, message: 'Villager was slain by Zombie Villager'
-[18:27:46] [Server thread/INFO]: Gnot lost connection: Disconnected
-[18:27:46] [Server thread/INFO]: Gnot left the game
-[18:48:33] [User Authenticator #29/INFO]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
-[18:48:35] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1eb4fc21
-[18:48:35] [Server thread/INFO]: Gnot[/[0:0:0:0:0:0:0:1]:12948] logged in with entity id 7232854 at (-352.82790433826045, 68.5, 264.1973025771856)
-[18:48:35] [Server thread/INFO]: Gnot joined the game
-[18:48:35] [Server thread/INFO]: Player Gnot ServerPlayer['Gnot'/7232854, l='ServerLevel[chasmic-chaos]', x=-352.83, y=68.50, z=264.20] logged in and will be protected for 90 secs.
-[18:48:39] [Server thread/INFO]: Protected Player Gnot was successful validated after 4 secs.
-[18:48:39] [Server thread/INFO]: Removing player protection from player Gnot!
-[18:50:14] [User Authenticator #30/INFO]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
-[18:50:16] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57fbed78
-[18:50:16] [Server thread/INFO]: KZcheese[/[0:0:0:0:0:0:0:1]:12953] logged in with entity id 7246782 at (-365.7468335569467, 64.0, 271.11832155529424)
-[18:50:16] [Server thread/INFO]: KZcheese joined the game
-[18:50:16] [Server thread/INFO]: Player KZcheese ServerPlayer['KZcheese'/7246782, l='ServerLevel[chasmic-chaos]', x=-365.75, y=64.00, z=271.12] logged in and will be protected for 90 secs.
-[18:50:28] [Server thread/INFO]: Protected Player KZcheese was successful validated after 12 secs.
-[18:50:28] [Server thread/INFO]: Removing player protection from player KZcheese!
-[18:57:55] [Server thread/INFO]: KZcheese has made the advancement [Isn't It Iron Pick]
-[19:14:02] [Server thread/INFO]: KZcheese was slain by Enderman
-[19:14:03] [Server thread/WARN]: New entity has data, contents assigned.
-[19:26:23] [Server thread/INFO]: Gnot has made the advancement [Diamonds!]
-[19:31:52] [Server thread/INFO]: KZcheese lost connection: Disconnected
-[19:31:52] [Server thread/INFO]: KZcheese left the game
-[19:32:00] [Server thread/INFO]: Gnot lost connection: Disconnected
-[19:32:00] [Server thread/INFO]: Gnot left the game
-[20:20:43] [User Authenticator #31/INFO]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
-[20:20:45] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@27b76794
-[20:20:45] [Server thread/INFO]: Gnot[/[0:0:0:0:0:0:0:1]:13213] logged in with entity id 7679304 at (-240.7900220208196, 10.0, 211.094591149303)
-[20:20:45] [Server thread/INFO]: Gnot joined the game
-[20:20:45] [Server thread/INFO]: Player Gnot ServerPlayer['Gnot'/7679304, l='ServerLevel[chasmic-chaos]', x=-240.79, y=10.00, z=211.09] logged in and will be protected for 90 secs.
-[20:20:52] [Server thread/INFO]: Protected Player Gnot was successful validated after 7 secs.
-[20:20:52] [Server thread/INFO]: Removing player protection from player Gnot!
-[20:22:31] [User Authenticator #32/INFO]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
-[20:22:33] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5791796e
-[20:22:33] [Server thread/INFO]: KZcheese[/[0:0:0:0:0:0:0:1]:13216] logged in with entity id 7696640 at (-243.69821780637255, 9.0, 212.3682833235553)
-[20:22:33] [Server thread/INFO]: KZcheese joined the game
-[20:22:33] [Server thread/INFO]: Player KZcheese ServerPlayer['KZcheese'/7696640, l='ServerLevel[chasmic-chaos]', x=-243.70, y=9.00, z=212.37] logged in and will be protected for 90 secs.
-[20:22:49] [Server thread/INFO]: Protected Player KZcheese was successful validated after 16 secs.
-[20:22:49] [Server thread/INFO]: Removing player protection from player KZcheese!
-[20:25:46] [Server thread/INFO]: KZcheese fell from a high place
-[20:25:47] [Server thread/INFO]: Skipping update from removed player 'ServerPlayer['KZcheese'/7696640, l='ServerLevel[chasmic-chaos]', x=-243.61, y=-17.00, z=224.40, removed=KILLED]'
-[20:25:50] [Server thread/WARN]: New entity has data, contents assigned.
-[20:29:01] [Server thread/INFO]: KZcheese has made the advancement [Diamonds!]
-[20:29:37] [Server thread/INFO]: KZcheese was shot by Skeleton
-[20:29:39] [Server thread/WARN]: New entity has data, contents assigned.
-[20:33:15] [Server thread/INFO]: Gnot lost connection: Disconnected
-[20:33:15] [Server thread/INFO]: Gnot left the game
-[20:54:26] [Server thread/INFO]: KZcheese lost connection: Disconnected
-[20:54:26] [Server thread/INFO]: KZcheese left the game
-[20:54:26] [Server thread/INFO]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.378629684448242) to LOW (avg. 20.76581382751465)
-[20:54:38] [Server thread/INFO]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.76581382751465) to VERY_LOW (avg. 1.805281400680542)
-[20:58:31] [User Authenticator #33/INFO]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
-[20:58:35] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79d79b31
-[20:58:35] [Server thread/INFO]: duh_hell[/[0:0:0:0:0:0:0:1]:13292] logged in with entity id 7950847 at (8.5, 68.0, -20.5)
-[20:58:35] [Server thread/INFO]: duh_hell joined the game
-[20:58:35] [Server thread/INFO]: Player duh_hell ServerPlayer['duh_hell'/7950847, l='ServerLevel[chasmic-chaos]', x=8.50, y=68.00, z=-20.50] logged in and will be protected for 90 secs.
-[20:58:36] [Server thread/INFO]: Protected Player duh_hell was successful validated after 0 secs.
-[20:58:36] [Server thread/INFO]: Removing player protection from player duh_hell!
-[21:04:06] [Server thread/INFO]: duh_hell has made the advancement [Sweet Dreams]
-[21:09:37] [Server thread/INFO]: duh_hell lost connection: Disconnected
-[21:09:37] [Server thread/INFO]: duh_hell left the game
-[21:49:12] [User Authenticator #34/INFO]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
-[21:49:13] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@769c5473
-[21:49:13] [Server thread/INFO]: Gnot[/[0:0:0:0:0:0:0:1]:13482] logged in with entity id 8215045 at (-219.51837232156828, 9.0, 212.7988143711265)
-[21:49:13] [Server thread/INFO]: Gnot joined the game
-[21:49:13] [Server thread/INFO]: Player Gnot ServerPlayer['Gnot'/8215045, l='ServerLevel[chasmic-chaos]', x=-219.52, y=9.00, z=212.80] logged in and will be protected for 90 secs.
-[21:49:20] [Server thread/INFO]: Protected Player Gnot was successful validated after 6 secs.
-[21:49:20] [Server thread/INFO]: Removing player protection from player Gnot!
-[21:56:46] [User Authenticator #35/INFO]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
-[21:56:48] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20af14da
-[21:56:48] [Server thread/INFO]: KZcheese[/[0:0:0:0:0:0:0:1]:13508] logged in with entity id 8275533 at (-365.93641463010783, 66.0, 285.92500001192093)
-[21:56:48] [Server thread/INFO]: KZcheese joined the game
-[21:56:48] [Server thread/INFO]: Player KZcheese ServerPlayer['KZcheese'/8275533, l='ServerLevel[chasmic-chaos]', x=-365.94, y=66.00, z=285.93] logged in and will be protected for 90 secs.
-[21:57:11] [Server thread/INFO]: Protected Player KZcheese was successful validated after 23 secs.
-[21:57:11] [Server thread/INFO]: Removing player protection from player KZcheese!
-[21:57:31] [Server thread/INFO]: <KZcheese> list
-[21:57:38] [Server thread/INFO]: <KZcheese> slep
-[21:57:49] [Server thread/INFO]: Gnot lost connection: Disconnected
-[21:57:49] [Server thread/INFO]: Gnot left the game
-[21:57:50] [Server thread/INFO]: KZcheese lost connection: Disconnected
-[21:57:50] [Server thread/INFO]: KZcheese left the game
-[21:57:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:57:59] [Server thread/INFO]: v0(([23:55:38] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2999ab5ae[00:07:07] [Server thread/INFO]: Gnot has made the advancement [Glow and Behold!][00:07:07] [Server thread/INFO]: Gnot has made the advancement [Glow and Behold!][23:55:38] [Server thread/INFO]: Gnot[/[0:0:0:0:0:0:0:1]:9246] logged in with entity id 4713896 at (-232.85099534490163, 63.0, 223.1799986747881)[00:29:46] [Server thread/INFO]: Gnot lost connection: Disconnectedat[00:29:46] [Server thread/INFO]: Gnot lost connection: Disconnected[11:40:20] [Netty Server IO #5/ERROR]: Terminating connection with client, mismatched mod list[11:40:20] [Netty Server IO #5/ERROR]: Terminating connection with client, mismatched mod listl='ServerLevel[chasmic-chaos]'ididiid4713896de62381b-7b27-4b9b-ab00-7c89bf9e678b7de62381b-7b27-4b9b-ab00-7c89bf9e678b7de62381b-7b27-4b9b-ab00-7c89bf9e678bf7[10:35:33] [Server thread/INFO]: Gnot lost connection: Disconnected[10:35:33] [Server thread/INFO]: Gnot lost connection: Disconnectedstop<--[HERE]
-[21:58:21] [Server thread/INFO]: Stopping the server
-[21:58:21] [Server thread/INFO]: Stopping server
-[21:58:21] [Server thread/INFO]: Saving players
-[21:58:21] [Server thread/INFO]: Saving worlds
-[21:58:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[chasmic-chaos]'/minecraft:overworld
-[21:58:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[chasmic-chaos]'/minecraft:the_nether
-[21:58:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[chasmic-chaos]'/minecraft:the_end
-[21:58:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (chasmic-chaos): All chunks are saved
-[21:58:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:58:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:58:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:02:02] [User Authenticator #92/INFO]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
+[17:02:04] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@47c746af
+[17:02:04] [Server thread/INFO]: KZcheese[/[0:0:0:0:0:0:0:1]:7759] logged in with entity id 53284074 at (-351.63761125976043, 66.0, 279.8145919205843)
+[17:02:04] [Server thread/INFO]: KZcheese joined the game
+[17:02:04] [Server thread/INFO]: Player KZcheese ServerPlayer['KZcheese'/53284074, l='ServerLevel[chasmic-chaos]', x=-351.64, y=66.00, z=279.81] logged in and will be protected for 90 secs.
+[17:02:05] [Server thread/WARN]: Unknown entity name for entity LeashFenceKnotEntity['Leash Knot'/53284164, l='ServerLevel[chasmic-chaos]', x=-362.50, y=66.38, z=286.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks/issues!
+[17:02:05] [Server thread/WARN]: Unknown entity name for entity LeashFenceKnotEntity['Leash Knot'/53284165, l='ServerLevel[chasmic-chaos]', x=-367.50, y=66.38, z=290.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks/issues!
+[17:02:05] [Server thread/WARN]: Unknown entity name for entity LeashFenceKnotEntity['Leash Knot'/53284166, l='ServerLevel[chasmic-chaos]', x=-362.50, y=66.38, z=288.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks/issues!
+[17:02:06] [Server thread/WARN]: Unknown entity name for entity LeashFenceKnotEntity['Leash Knot'/53284307, l='ServerLevel[chasmic-chaos]', x=-235.50, y=9.38, z=210.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks/issues!
+[17:02:26] [Server thread/INFO]: Protected Player KZcheese was successful validated after 21 secs.
+[17:02:26] [Server thread/INFO]: Removing player protection from player KZcheese!
+[17:03:13] [Server thread/INFO]: KZcheese lost connection: Disconnected
+[17:03:13] [Server thread/INFO]: KZcheese left the game
+[21:24:02] [User Authenticator #93/INFO]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
+[21:24:04] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61f6042d
+[21:24:04] [Server thread/INFO]: Gnot[/[0:0:0:0:0:0:0:1]:8615] logged in with entity id 53294683 at (-364.11030389929596, 65.0, 257.94585952556525)
+[21:24:04] [Server thread/INFO]: Gnot joined the game
+[21:24:04] [Server thread/INFO]: Player Gnot ServerPlayer['Gnot'/53294683, l='ServerLevel[chasmic-chaos]', x=-364.11, y=65.00, z=257.95] logged in and will be protected for 90 secs.
+[21:24:05] [Server thread/WARN]: Unknown entity name for entity LeashFenceKnotEntity['Leash Knot'/53294813, l='ServerLevel[chasmic-chaos]', x=-362.50, y=66.38, z=286.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks/issues!
+[21:24:05] [Server thread/WARN]: Unknown entity name for entity LeashFenceKnotEntity['Leash Knot'/53294814, l='ServerLevel[chasmic-chaos]', x=-367.50, y=66.38, z=290.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks/issues!
+[21:24:05] [Server thread/WARN]: Unknown entity name for entity LeashFenceKnotEntity['Leash Knot'/53294815, l='ServerLevel[chasmic-chaos]', x=-362.50, y=66.38, z=288.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks/issues!
+[21:24:05] [Server thread/WARN]: Unknown entity name for entity LeashFenceKnotEntity['Leash Knot'/53295008, l='ServerLevel[chasmic-chaos]', x=-235.50, y=9.38, z=210.50] (entity.minecraft.leash_knot) in minecraft:overworld. Please report this issue under https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks/issues!
+[21:24:13] [Server thread/INFO]: Protected Player Gnot was successful validated after 8 secs.
+[21:24:13] [Server thread/INFO]: Removing player protection from player Gnot!
+[21:24:51] [Server thread/INFO]: Gnot lost connection: Disconnected
+[21:24:51] [Server thread/INFO]: Gnot left the game
+[22:32:49] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[22:32:50] [Server thread/INFO]: Stopping the server
+[22:32:50] [Server thread/INFO]: Stopping server
+[22:32:50] [Server thread/INFO]: Saving players
+[22:32:50] [Server thread/INFO]: Saving worlds
+[22:32:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[chasmic-chaos]'/minecraft:overworld
+[22:32:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[chasmic-chaos]'/minecraft:the_nether
+[22:32:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[chasmic-chaos]'/minecraft:the_end
+[22:32:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (chasmic-chaos): All chunks are saved
+[22:32:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:32:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:32:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
